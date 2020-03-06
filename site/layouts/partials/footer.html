@@ -4,23 +4,24 @@
 
 		<div class="measure-narrow center mb4">
 
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
-			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
-
-			{{ partial "newsletter-form" . }}
+			<img src="/img/logo.png" alt="Kaldi logo" class="db w4 center mb4 br0">
+			<p class="f2 lh-title light-gray b tc mb2">Sparkle Dental Clinic</p>
+			<p class="f3 lh-title light-gray b tc mb2">Dr. Irshad & Dr. Suchetha</p>
+			<p class="f6 lh-title light-gray b tc mb1">No. 23, Bungalow Rd Extn, Avinashi Road, Tiruppur 641602</p>
+			<p class="f6 lh-title light-gray b tc mb2">+91 90431 93021</p>
+			<!-- {{ partial "newsletter-form" . }} -->
 
 		</div>
 
 		<div class="flex-ns justify-between">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
+				<h3 class="f4 b lh-title mb1 primary">Sparkle Dental</h3>
 				<ul class="mb3">
 					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
+					<li><a href="/services" class="link">Treatments</a></li>
+					<!-- <li><a href="/values" class="link">About</a></li> -->
+					<li><a href="/post" class="link">Dental Tips</a></li>
 					<li><a href="/contact" class="link">Contact</a></li>
 				</ul>
 			</div>
@@ -28,7 +29,7 @@
 			<div>
 				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
 				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
+					<li><a href="/post/about-us/" class="link">About Us</a></li>
 					<li><a href="/contact" class="link">Schedule and appointment</a></li>
 				</ul>
 			</div>
@@ -36,7 +37,7 @@
 			<div>
 				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/sparkledental.webnode.in/" "svg" "icons-facebook") }}
 					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
 					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
 					<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }} -->
