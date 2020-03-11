@@ -6,6 +6,26 @@ description: >+
   laugh. We are shy and hestitant because of   our teeth or gum problems. 
 
 
+  -Crooked teeth
+
+  -Chipped and fractured teeth
+
+  -Discoloured teeth
+
+  Gap between teeth
+
+  - Gummy smile
+
+
+  All theses and more can be treated, by smilemakeover.
+
+
+  smile makeover is an individualized  plan that contains carefully planned and
+  designed combination of dental procedures.
+
+
+
+
 image: img/eugene-chystiakov-trep2idto5q-unsplash.jpg
 ---
 ![](img/connor-wilkins-u68jzr7ky0i-unsplash.jpg)
