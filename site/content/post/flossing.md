@@ -26,7 +26,3 @@ A variety of dental flosses are commonly available. Floss is available in many f
 Specialized plastic wands, or floss picks, have been produced to hold the floss. These may be attached to or separate from a floss dispenser. While wands do not pinch fingers like regular floss can, using a wand may be awkward and can also make it difficult to floss at all the angles possible with regular floss. These types of flossers also run the risk of missing the area under the gum line that needs to be flossed. On the other hand, the enhanced reach of a wand can make flossing the back teeth easier.
 
 ![Keep your Teeth Clean!](img/library-of-congress-7qyts-1kuia-unsplash.jpg "Keep your Teeth Clean!")
-
-# How to Floss your Teeth:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HhdoPXNKNm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
