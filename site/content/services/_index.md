@@ -1,6 +1,6 @@
 ---
 title: Our Services
-image: img/dental-clinic3.jpg
+image: img/picture2.jpg
 values:
   - heading: Dental Examination
     text: >
