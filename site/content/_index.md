@@ -7,6 +7,10 @@ blurb:
   text: |-
     No. 23, Bungalow Rd Extn, Avinashi Road, Tiruppur 641 602 
     Ph: +91 90431 93021
+
+    WORKING HOURS:
+    Monday to Saturday - 9.30 AM - 2.00 PM & 5.00 PM - 9.00 PM
+    Sunday - 10.00 AM - 2.00 PM
 intro:
   heading: Everything You Need Under One Roof
   text: >-
