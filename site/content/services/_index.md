@@ -33,4 +33,14 @@ values:
   - heading: Full Mouth Rehabilitation
     text: "Full mouth rehabilitation, a  process of rebuilding or simultaneously restoring all of the teeth in both the upper and lower jaws. It is a treatment tailor made for you., to optimize the health of entire mouth. This may require restoration and/or replacement of teeth. Patients with following conditions will benefit from this: \n•\tTeeth  lost due to decay or other reasons.\n\n•\tSeverely worn out teeth.\n\n•\tComplaint of jaw, muscle and headache pain, which may be due to \n       faulty bite       \n  "
     imageUrl: img/dental-teeth-mold.jpg
+  - heading: Orthodontic
+    imageUrl: >-
+      img/favpng_dental-braces-dentistry-orthodontics-tooth-clear-aligners_epxkflwz.png
+    text: >-
+      Abnormal alignment of the teeth and jaws is common. Teeth may have come
+      into the mouth rotated, too much forward, one over the other or may have
+      too much spacing between them. These can be corrected using wires and
+      braces. 
+
+      Additionally jaw abnormalities can also be corrected.
 ---
