@@ -2,13 +2,16 @@
 title: Patient Services
 image: img/people-wearing-white-shirt-working-on-woman-s-teeth-3779709.jpg
 values:
-  - heading: Dental Examination
-    text: >
+  - heading: Dental Examination with Digital X Ray
+    text: >-
       We believe that most people want to keep their teeth for a lifetime. Our
       goal is to help you do this by providing comprehensive and high quality
       dentistry.
+
+      Equipped with the most modern technologies, we strive to give our
+      patient's a pain free experience. 
     imageUrl: img/dental-mirrors.jpg
-  - heading: Cosmetic
+  - heading: Cosmetic dentistry - Veneers and Laminates
     text: >
       We offer a vast range of cosmetic procedures to help you achieve a
       beautiful smile. These services include porcelain crowns, veneers, teeth
