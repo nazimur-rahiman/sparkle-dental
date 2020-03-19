@@ -30,4 +30,7 @@ values:
       penetrate the inner structures of the tooth, eventually reaching the very
       centre of the tooth which is called the pulp cavity.
     imageUrl: img/picture4.png
+  - heading: Full Mouth Rehabilitation
+    text: "Full mouth rehabilitation, a  process of rebuilding or simultaneously restoring all of the teeth in both the upper and lower jaws. It is a treatment tailor made for you., to optimize the health of entire mouth. This may require restoration and/or replacement of teeth. Patients with following conditions will benefit from this: \n•\tTeeth  lost due to decay or other reasons.\n\n•\tSeverely worn out teeth.\n\n•\tComplaint of jaw, muscle and headache pain, which may be due to \n       faulty bite       \n  "
+    imageUrl: img/dental-teeth-mold.jpg
 ---
