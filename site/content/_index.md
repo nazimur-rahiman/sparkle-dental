@@ -14,7 +14,9 @@ intro:
   text: >-
     Our comprehensive services allow you to receive all needed dental care right
     here in our state-of-art office – from dental cleanings and fillings to
-    dental implants and extractions.
+    dental implants and extractions to smile makeover.
+
+    Oral health for overall health is our motto.
 values:
   heading: Specialized Dentistry with Personalised Care
   text: >-
