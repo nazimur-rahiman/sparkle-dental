@@ -4,7 +4,7 @@ date: 2020-03-17T00:56:59.018Z
 description: >-
   Dental floss (or simply floss) is a cord of thin filaments used to remove food
   and dental plaque from between teeth in areas a toothbrush is unable to reach.
-image: img/brett-jordan-bskswjto7rw-unsplash.jpg
+image: img/floss.jpg
 ---
 > Dental professionals recommend that a person floss once per day before or after brushing to reach the areas that the brush will not and allow the Fluoride from the toothpaste to reach between the teeth.
 
