@@ -17,14 +17,14 @@ values:
       beautiful smile. These services include porcelain crowns, veneers, teeth
       whitening, dental implants, digital smile designing and Invisalign.....
     imageUrl: img/picture3.jpg
-  - heading: Dental Implants
+  - heading: Dental Implants - Replace those missing teeth
     text: >
       Dental implants are a great way to replace missing teeth and also provide
       a fixed solution to having removable partial or complete dentures. 
       Implants provide excellent support and stability for these dental
       appliances..
     imageUrl: img/favpng_dental-implant-dentistry-dentures_9r12tvdf.png
-  - heading: Root Canal Treatment
+  - heading: Root Canal Treatment -  from painful to painless tooth
     text: >
       Root canal treatment is sometimes called root canal therapy or endodontic
       therapy, and is carried out when the central part of the tooth has become
@@ -33,10 +33,10 @@ values:
       penetrate the inner structures of the tooth, eventually reaching the very
       centre of the tooth which is called the pulp cavity.
     imageUrl: img/picture4.png
-  - heading: Full Mouth Rehabilitation
-    text: "Full mouth rehabilitation, a  process of rebuilding or simultaneously restoring all of the teeth in both the upper and lower jaws. It is a treatment tailor made for you., to optimize the health of entire mouth. This may require restoration and/or replacement of teeth. Patients with following conditions will benefit from this: \n•\tTeeth  lost due to decay or other reasons.\n\n•\tSeverely worn out teeth.\n\n•\tComplaint of jaw, muscle and headache pain, which may be due to \n       faulty bite       \n  "
+  - heading: Full Mouth Rehabilitation - No more jaw pain
+    text: "Full mouth rehabilitation, a  process of rebuilding or simultaneously restoring all of the teeth in both the upper and lower jaws. It is a treatment tailor made for you, to optimize the health of entire mouth. This may require restoration and/or replacement of teeth. Patients with following conditions will benefit from this: \n•\tTeeth  lost due to decay or other reasons.\n\n•\tSeverely worn out teeth.\n\n•\tComplaint of jaw, muscle and headache pain, which may be due to \n       faulty bite       \n  "
     imageUrl: img/dental-teeth-mold.jpg
-  - heading: Orthodontic
+  - heading: Orthodontic - Braces and Wires
     imageUrl: >-
       img/favpng_dental-braces-dentistry-orthodontics-tooth-clear-aligners_epxkflwz.png
     text: >-
@@ -55,4 +55,12 @@ values:
       An onlay is a method used to repair a tooth that has more extensive damage
       affecting a greater surface of the tooth
     imageUrl: img/dental-check-up-3845713.jpg
+  - heading: Geriatric dentistry - Caring for Elderly
+    text: >
+      Mouth is referred to as a mirror of overall health. Eating nutritious
+      wholesome meal becomes more important as we age. Healthy teeth and mouth
+      are needed   to chew food and maintain a good quality of life. 
+
+      Lot of treatment options are available to replace or restore teeth.
+    imageUrl: img/19451.jpg
 ---
