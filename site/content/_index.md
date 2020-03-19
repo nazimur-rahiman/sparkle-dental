@@ -1,6 +1,6 @@
 ---
 title: A better life starts with a beautiful smile
-subtitle: 'Welcome to the Sparkle Dental Clinic, Tiruppur.'
+subtitle: 'Welcome to the Sparkle Dental Clinic, Tiruppur'
 image: img/393728-pcf7i6-670.jpg
 blurb:
   heading: Contact Us
