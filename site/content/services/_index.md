@@ -20,7 +20,7 @@ values:
       a fixed solution to having removable partial or complete dentures. 
       Implants provide excellent support and stability for these dental
       appliances..
-    imageUrl: img/favpng_dental-implant-cosmetic-dentistry_cwgfkwyd.png
+    imageUrl: img/favpng_dental-implant-dentistry-dentures_9r12tvdf.png
   - heading: Root Canal Treatment
     text: >
       Root canal treatment is sometimes called root canal therapy or endodontic
