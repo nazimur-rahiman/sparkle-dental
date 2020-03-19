@@ -1,5 +1,5 @@
 ---
-title: Our Services
+title: Patient Services
 image: img/people-wearing-white-shirt-working-on-woman-s-teeth-3779709.jpg
 values:
   - heading: Dental Examination
@@ -46,4 +46,10 @@ values:
   - heading: Child Dental Care - Path to improved health
     text: "Healthy teeth and oral hygiene are absolutely necessary to your child’s overall health. Teeth help the child eat and talk. Milk teeth are important and  need to last till the permanent are ready to erupt.\nWe understand that your child’s well-being is always on your mind. The care of your child’s teeth and gums begins with you - dental hygiene should begin when your child is a baby.\n\n•\tRegular dental check up and restoration of carious teeth\n•\tFlouride varnish help in managing decay\n•\tIf your child plays sports, they should wear a mouth guard\n\n\n"
     imageUrl: img/dentist-428646_1280.jpg
+  - heading: Inlays & Onlays
+    text: >2-
+       Inlays are restorations from porcelain or composite resin material matching the color of the tooth, and provide almost invisible dental restoration while repairing the chewing surface. Dental inlays are generally more durable than regular fillings.
+      An onlay is a method used to repair a tooth that has more extensive damage
+      affecting a greater surface of the tooth
+    imageUrl: img/dental-check-up-3845713.jpg
 ---
