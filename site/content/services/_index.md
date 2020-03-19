@@ -56,11 +56,6 @@ values:
       affecting a greater surface of the tooth
     imageUrl: img/dental-check-up-3845713.jpg
   - heading: Geriatric dentistry - Caring for Elderly
-    text: >
-      Mouth is referred to as a mirror of overall health. Eating nutritious
-      wholesome meal becomes more important as we age. Healthy teeth and mouth
-      are needed   to chew food and maintain a good quality of life. 
-
-      Lot of treatment options are available to replace or restore teeth.
+    text: "Mouth is referred to as a mirror of overall health. Eating nutritious wholesome meal becomes more important as we age. Healthy teeth and mouth are needed   to chew food and maintain a good quality of life. \nLot of treatment options are available to replace or restore teeth.\n•\tPreventive care\n•\tDenture \n•\tAll on 4 implants\n\n"
     imageUrl: img/19451.jpg
 ---
