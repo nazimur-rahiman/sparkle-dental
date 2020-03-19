@@ -43,4 +43,7 @@ values:
       braces. 
 
       Additionally jaw abnormalities can also be corrected.
+  - heading: Child Dental Care - Path to improved health
+    text: "Healthy teeth and oral hygiene are absolutely necessary to your child’s overall health. Teeth help the child eat and talk. Milk teeth are important and  need to last till the permanent are ready to erupt.\nWe understand that your child’s well-being is always on your mind. The care of your child’s teeth and gums begins with you - dental hygiene should begin when your child is a baby.\n\n•\tRegular dental check up and restoration of carious teeth\n•\tFlouride varnish help in managing decay\n•\tIf your child plays sports, they should wear a mouth guard\n\n\n"
+    imageUrl: img/dentist-428646_1280.jpg
 ---
