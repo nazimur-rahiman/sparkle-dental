@@ -1,6 +1,6 @@
 ---
 title: Our Services
-image: img/picture1.png
+image: img/people-wearing-white-shirt-working-on-woman-s-teeth-3779709.jpg
 values:
   - heading: Dental Examination
     text: >
