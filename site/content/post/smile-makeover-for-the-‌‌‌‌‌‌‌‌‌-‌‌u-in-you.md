@@ -8,7 +8,7 @@ description: >+
 
 
 
-image: img/clinic.jpg
+image: img/clinic10.jpg
 ---
 *Crooked teeth* 
 
