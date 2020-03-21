@@ -6,10 +6,8 @@ description: Cosmetic Dentist in Tirupur
 intro:
   blurbs:
     - image: img/undraw_doctors_hwty.svg
-      text: >
-        With over 17 years of clinical experience we skilfully deal with all
-        your regular dental and oral complaints to advanced procedures like
-        implants and digital smile designing.
+      text: |
+        Some of the brands we use regularly in our clinic
     - image: img/fractured.jpg
       text: >
         Fractured tooth - No problem. A simple procedure to restore the tooth to
