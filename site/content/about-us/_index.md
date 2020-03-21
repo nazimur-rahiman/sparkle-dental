@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: img/image1.jpg
+image: img/dental-clinic.jpg
 heading: About Us
 description: Cosmetic Dentist in Tirupur
 intro:
@@ -50,29 +50,10 @@ testimonials:
     quote: Very hygienic and personalised care from experienced and expert doctors.
 full_image: /img/image7.jpg
 pricing:
-  heading: General Treatment Pricing
-  description: 'Our prices are... '
-  plans:
-    - description: Dental examination with X-Ray.
-      items:
-        - Full Mouth
-        - Pain Free
-        - Digital X-Ray
-      plan: Small
-      price: '500'
-    - description: Dental examination with X-Ray.
-      items:
-        - Full Mouth
-        - Pain Free
-        - Digital X-Ray
-      plan: Medium
-      price: '500'
-    - description: Dental examination with X-Ray.
-      items:
-        - Full Mouth
-        - Pain Free
-        - Digital X-Ray
-      plan: Large
-      price: '500'
+  heading: Pricing
+  description: >-
+    We have a treatment plan to suit your budget, without compromising on the
+    quality.
+  plans: []
 type: about-us
 ---
