@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: img/dental-clinic.jpg
+image: img/393586-pcf796-122.jpg
 heading: About Us
 description: Cosmetic Dentist in Tirupur
 intro:
@@ -53,7 +53,7 @@ pricing:
   heading: Pricing
   description: >-
     We have a treatment plan to suit your budget, without compromising on the
-    quality.
+    quality. We can also help you with EMI options.
   plans: []
 type: about-us
 ---
