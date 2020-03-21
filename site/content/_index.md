@@ -11,16 +11,19 @@ blurb:
 
 intro:
   heading: Everything You Need Under One Roof
-  text: >-
-    Our comprehensive services allow you to receive all needed dental care right
-    here in our state-of-art office – from dental cleanings and fillings to
-    dental implants and extractions to smile makeover.
+  text: >
+    Our multi specialty dental clinic allows you to receive all needed dental
+    care right here in our state-of-art office – from dental cleanings and
+    fillings to dental implants and extractions to smile makeover. 
 
-    Oral health for overall health is our motto.
+    With care, compassion, competence and commitment, we strive to give you the
+    best.
 values:
   heading: Specialized Dentistry with Personalised Care
   text: >-
     With over 17 years of clinical experience we skilfully deal with all your
     regular dental and oral complaints to advanced procedures like implants and
-    digital smile designing.
+    digital smile designing. 
+
+    Oral health for overall health is our motto.
 ---
