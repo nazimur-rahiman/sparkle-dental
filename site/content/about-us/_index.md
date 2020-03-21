@@ -2,7 +2,7 @@
 title: About Us
 image: img/393586-pcf796-122.jpg
 heading: About Us
-description: Cosmetic Dentist in Tirupur
+description: 'Dentistry is our passion and addiction. It is not just a job. '
 intro:
   blurbs:
     - image: img/brands.png
@@ -25,10 +25,12 @@ intro:
         your regular dental and oral complaints to advanced procedures like
         implants and digital smile designing.
   heading: What we offer
-  description: >
-    With over 17 years of clinical experience we skilfully deal with all your
+  description: >-
+    With over 17 years of clinical experience we skillfully deal with all your
     regular dental and oral complaints to advanced procedures like implants and
     digital smile designing.
+        Dentistry is a continuously evolving field. We regularly attend international and national workshops to upgrade our knowledge. We also constantly equip the clinic with instruments and materials that meet industry standards. 
+        Our instruments are sterilised and equipments disinfected, along with appropriate barrier protection to ensure a safe environment. 
 main:
   heading: Pledge for a life less sweet!
   description: >
