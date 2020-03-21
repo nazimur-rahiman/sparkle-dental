@@ -5,9 +5,10 @@ heading: About Us
 description: Cosmetic Dentist in Tirupur
 intro:
   blurbs:
-    - image: img/undraw_doctors_hwty.svg
-      text: |
-        Some of the brands we use regularly in our clinic
+    - image: img/brands.png
+      text: >
+        Some of the brands we use regularly in our clinic. International brands
+        with proven quality assurance. We do not compromise on patient safety.
     - image: img/fractured.jpg
       text: >
         Fractured tooth - No problem. A simple procedure to restore the tooth to
