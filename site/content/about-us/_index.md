@@ -10,20 +10,8 @@ intro:
         Some of the brands we use regularly in our clinic. International and
         Indian brands with proven quality assurance. We do not compromise on
         patient safety.
-    - image: img/fractured.jpg
-      text: >
-        Fractured tooth - No problem. A simple procedure to restore the tooth to
-        its original form.
-    - image: img/undraw_medicine_b1ol.svg
-      text: >
-        With over 17 years of clinical experience we skilfully deal with all
-        your regular dental and oral complaints to advanced procedures like
-        implants and digital smile designing.
-    - image: img/undraw_doctor_kw5l.svg
-      text: >
-        With over 17 years of clinical experience we skilfully deal with all
-        your regular dental and oral complaints to advanced procedures like
-        implants and digital smile designing.
+    - image: img/cerrtificates.png
+      text: 'Awards and Recognition '
   heading: What we offer
   description: >-
     With over 17 years of clinical experience we skillfully deal with all your
