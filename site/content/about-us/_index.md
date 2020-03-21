@@ -30,7 +30,7 @@ intro:
     regular dental and oral complaints to advanced procedures like implants and
     digital smile designing.
         Dentistry is a continuously evolving field. We regularly attend international and national workshops to upgrade our knowledge. We also constantly equip the clinic with instruments and materials that meet industry standards. 
-        Our instruments are sterilised and equipments disinfected, along with appropriate barrier protection to ensure a safe environment. 
+        Our instruments are disinfected and sterilized , along with appropriate barrier protection to ensure a safe environment. 
 main:
   heading: Pledge for a life less sweet!
   description: >
