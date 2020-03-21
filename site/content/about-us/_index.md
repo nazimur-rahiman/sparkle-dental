@@ -31,8 +31,8 @@ intro:
     digital smile designing, to give you a holistic treatment. 
         Dentistry is a continuously evolving field. We regularly attend international and national workshops to upgrade our knowledge. We also constantly equip the clinic with instruments and materials that meet industry standards. 
         Our instruments are disinfected and sterilized , along with appropriate barrier protection to ensure a safe environment. 
-    Surrounded by both indoor and outdoor greenery, we believe that calming
-    influence of natural environment is conducive to positive work environment.
+    Surrounded by both indoor and outdoor greenery, the calming influence of
+    this natural environment is conducive to positive work environment.
 main:
   heading: Pledge for a life less sweet!
   description: >
