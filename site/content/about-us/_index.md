@@ -7,8 +7,9 @@ intro:
   blurbs:
     - image: img/brands.png
       text: >
-        Some of the brands we use regularly in our clinic. International brands
-        with proven quality assurance. We do not compromise on patient safety.
+        Some of the brands we use regularly in our clinic. International and
+        Indian brands with proven quality assurance. We do not compromise on
+        patient safety.
     - image: img/fractured.jpg
       text: >
         Fractured tooth - No problem. A simple procedure to restore the tooth to
