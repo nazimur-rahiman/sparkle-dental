@@ -43,7 +43,7 @@ testimonials:
     quote: 'Treatment from skilled and knowledgeable dentists. '
   - author: Ms. Soumya
     quote: Very hygienic and personalised care from experienced and expert doctors.
-full_image: /img/image7.jpg
+full_image: img/picture2.png
 pricing:
   heading: Pricing
   description: >-
