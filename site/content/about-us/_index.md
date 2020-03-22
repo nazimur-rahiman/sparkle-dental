@@ -22,10 +22,12 @@ intro:
     Surrounded by both indoor and outdoor greenery, the calming influence of
     this natural environment is conducive to positive work environment.
 main:
-  heading: >-
+  heading: 'Continuing Dental education '
+  description: >
     “If a man empties his purse into his head, no man can take it away from him.
     An investment in knowledge always pays the best interest.” Ben Franklin
-  description: >
+
+
     We invest in attending workshops and conferences under guidance of pioneers
     of national and international repute. It allows a us to learn, improve  and
     discover viable ways to improve on the patient care.
