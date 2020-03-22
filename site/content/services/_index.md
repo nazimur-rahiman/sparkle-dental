@@ -33,7 +33,7 @@ values:
       penetrate the inner structures of the tooth, eventually reaching the very
       centre of the tooth which is called the pulp cavity.
     imageUrl: img/picture4.png
-  - heading: Full Mouth Rehabilitation - No more jaw pain
+  - heading: Full Mouth Rehabilitation - No more jaw joint pain
     text: "Full mouth rehabilitation, a  process of rebuilding or simultaneously restoring all of the teeth in both the upper and lower jaws. It is a treatment tailor made for you, to optimize the health of entire mouth. This may require restoration and/or replacement of teeth. Patients with following conditions will benefit from this: \n•\tTeeth  lost due to decay or other reasons.\n\n•\tSeverely worn out teeth.\n\n•\tComplaint of jaw, muscle and headache pain, which may be due to \n       faulty bite       \n  "
     imageUrl: img/dental-teeth-mold.jpg
   - heading: Orthodontic - Braces and Wires
@@ -66,4 +66,19 @@ values:
       We are actively involved in conducting  dental camps and would love to be
       a part of any community related services
     imageUrl: img/volunteer-2055043_1920.png
+  - heading: Tooth extraction
+    text: >-
+      We believe and work towards keeping your natural teeth for lifetime. but
+      sometimes, we are left with no choice but to extract. There is nothing to
+      fear during or after extraction. one can carry about their day to day
+      activities without any hindrance. 
+    imageUrl: img/tooth-3492645_1920.jpg
+  - heading: 'Mouth Ulcers, red & white areas in mouth'
+    text: >-
+      Mouth ulcers are usually small painful areas inside the mouth. Some people
+      experience recurrent mouth ulcers, which can cause burning sensation,
+      difficulty in eating and subsequently poor health. We are qualified to
+      help you in management of these kinds of mouth, cheek and tongue
+      soreness. 
+    imageUrl: img/mouth_ulcer.jpg
 ---
