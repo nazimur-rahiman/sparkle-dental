@@ -22,10 +22,13 @@ intro:
     Surrounded by both indoor and outdoor greenery, the calming influence of
     this natural environment is conducive to positive work environment.
 main:
-  heading: Pledge for a life less sweet!
+  heading: >-
+    “If a man empties his purse into his head, no man can take it away from him.
+    An investment in knowledge always pays the best interest.” Ben Franklin
   description: >
-    Sparkle Dental Clinic, one of the top rated in Tiruppur. For more than 17
-    years we are catering to all dental needs from children to elderly.
+    We invest in attending workshops and conferences under guidance of pioneers
+    of national and international repute. It allows a us to learn, improve  and
+    discover viable ways to improve on the patient care.
   image1:
     alt: Dr. Irshad
     image: /img/irshad2.jpg
@@ -33,7 +36,7 @@ main:
     alt: Dr. Irshad
     image: /img/irshad.png
   image3:
-    image: img/fractured.jpg
+    image: img/87453456_3036422009735709_779670395404943360_o.jpg
     alt: Alt1
 testimonials:
   - author: Ms. Ramya
