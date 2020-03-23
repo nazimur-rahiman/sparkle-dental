@@ -5,6 +5,7 @@ This is a small business template built with [Victor Hugo](https://github.com/ne
 ## Sparkle Dental Clinic
 Adopted for Sparkle Dental Clinic by [Nazimur Rahiman](http://www.pixodius.com/).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c2ac31b-74a5-4c0b-910d-c955a468a9e9/deploy-status)](https://app.netlify.com/sites/sparkle-dental/deploys)
 
 ## Local Development
 
