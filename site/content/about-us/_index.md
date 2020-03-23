@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Us - Dentistry is our passion and addiction. It is not just a job.
 image: img/393586-pcf796-122.jpg
 heading: 'About Us - Dentistry is our passion and addiction. It is not just a job. '
 description: 'Dentistry is our passion and addiction. It is not just a job. '
