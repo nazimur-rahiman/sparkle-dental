@@ -1,7 +1,7 @@
 ---
 title: About Us
 image: img/393586-pcf796-122.jpg
-heading: About Us
+heading: 'About Us - Dentistry is our passion and addiction. It is not just a job. '
 description: 'Dentistry is our passion and addiction. It is not just a job. '
 intro:
   blurbs:
@@ -19,18 +19,14 @@ intro:
     digital smile designing, to give you a holistic treatment. 
         Dentistry is a continuously evolving field. We regularly attend international and national workshops to upgrade our knowledge. We also constantly equip the clinic with instruments and materials that meet industry standards. 
         Our instruments are disinfected and sterilized , along with appropriate barrier protection to ensure a safe environment. 
-    Surrounded by both indoor and outdoor greenery, the calming influence of
-    this natural environment is conducive to positive work environment.
+         Surrounded by both indoor and outdoor greenery, the calming influence of this natural environment is conducive to positive work environment.
 main:
-  heading: 'Continuing Dental education '
+  heading: 'Continuing Dental Education '
   description: >
-    “If a man empties his purse into his head, no man can take it away from him.
-    An investment in knowledge always pays the best interest.” Ben Franklin
-
-
-    We invest in attending workshops and conferences under guidance of pioneers
-    of national and international repute. It allows a us to learn, improve  and
-    discover viable ways to improve on the patient care.
+    We are passionate about being the best in the field. Attending workshops and
+    conferences under guidance of pioneers of national and international repute,
+    allows  us to learn, improve  and discover viable ways to improve on the
+    patient care. 
   image1:
     alt: Dr. Irshad
     image: /img/irshad2.jpg
