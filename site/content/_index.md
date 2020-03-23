@@ -20,6 +20,7 @@ intro:
     best.
 values:
   heading: Specialized Dentistry with Personalised Care
+  image: img/dental-mirrors.jpg
   text: >-
     With over 17 years of clinical experience we skilfully deal with all your
     regular dental and oral complaints to advanced procedures like implants and
