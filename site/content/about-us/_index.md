@@ -24,7 +24,7 @@ main:
   heading: 'Continuing Dental Education '
   description: >
     We are passionate about being the best in the field. Attending workshops and
-    conferences under guidance of pioneers of national and international repute,
+    conferences under guidance of pioneers of National and International repute,
     allows  us to learn, improve  and discover viable ways to improve on the
     patient care. 
   image1:
