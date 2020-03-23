@@ -58,14 +58,6 @@ values:
   - heading: Geriatric dentistry - Caring for Elderly
     text: "Mouth is referred to as a mirror of overall health. Eating nutritious wholesome meal becomes more important as we age. Healthy teeth and mouth are needed   to chew food and maintain a good quality of life. \nLot of treatment options are available to replace or restore teeth.\n•\tPreventive care\n•\tDenture \n•\tAll on 4 implants\n\n"
     imageUrl: img/19451.jpg
-  - heading: Social Committments - giving back to society
-    text: >
-      Sparkle dental sees itself as a member of the community and gives back to
-      the community with the goal of a better tomorrows. 
-
-      We are actively involved in conducting  dental camps and would love to be
-      a part of any community related services
-    imageUrl: img/volunteer-2055043_1920.png
   - heading: Tooth extraction
     text: >-
       We believe and work towards keeping your natural teeth for lifetime. but
@@ -81,4 +73,12 @@ values:
       help you in management of these kinds of mouth, cheek and tongue
       soreness. 
     imageUrl: img/mouth_ulcer.jpg
+  - heading: Social Committments - giving back to society
+    text: >
+      Sparkle dental sees itself as a member of the community and gives back to
+      the community with the goal of a better tomorrows. 
+
+      We are actively involved in conducting  dental camps and would love to be
+      a part of any community related services
+    imageUrl: img/volunteer-2055043_1920.png
 ---
