@@ -1,16 +1,10 @@
 # Hugo template for Netlify CMS with Netlify Identity
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
-Adopted for Sparkle Dental by [Nazimur Rahiman](http://www.pixodius.com/).
 
-## Getting started
+## Sparkle Dental Clinic
+Adopted for Sparkle Dental Clinic by [Nazimur Rahiman](http://www.pixodius.com/).
 
-* A new repository in your GitHub account with the code
-* Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
-* Manage content with Netlify CMS
-
-Now you're all set, and you can start editing content!
 
 ## Local Development
 
