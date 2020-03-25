@@ -8,3 +8,9 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[redirects]]
+  from = "https://sparkle-dental.netlify.com/*"
+  to = "https://www.sparkledental.in/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
