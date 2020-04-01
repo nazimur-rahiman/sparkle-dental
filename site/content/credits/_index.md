@@ -9,4 +9,4 @@ People photo created by [Freepik](https://www.freepik.com/free-photos-vectors/pe
 
 Photo by Library of Congress on [Unsplash](https://unsplash.com/photos/7QytS-1kuIA)
 
-Website developed by [Nazim](https://www.pixodius.com)
+Website developed by [Nazim](https://www.nazim.dev)
