@@ -14,3 +14,11 @@
   to = "https://www.sparkledental.in/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
+
+# Build Plugins
+  [[plugins]]
+  package = "netlify-plugin-image-optim"   
+
+  package = "@netlify/plugin-sitemap"
+    [plugins.inputs]
+    buildDir = "public"
