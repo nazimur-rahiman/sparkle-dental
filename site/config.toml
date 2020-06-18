@@ -8,4 +8,4 @@ title = "Sparkle Dental Clinic"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-googleAnalytics = "UA-161734356-1"
+googleAnalytics = "UA-169926409-1"
