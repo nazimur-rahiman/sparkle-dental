@@ -91,14 +91,26 @@ values:
 
       Remember, dental implants can significantly improve your quality of life and give you the confidence to smile again.
     imageUrl: img/dental_implants_600.jpg
-  - heading: Root Canal Treatment -  from painful to painless tooth
+  - heading: Root Canal Treatment -  Pain Relief with Tooth Preservation for all ages
     text: >
-      Root canal treatment is sometimes called root canal therapy or endodontic
-      therapy, and is carried out when the central part of the tooth has become
-      damaged and infected. This damage may be due to trauma or might be due to
-      untreated tooth decay. When the tooth is damaged it allows bacteria to
-      penetrate the inner structures of the tooth, eventually reaching the very
-      centre of the tooth which is called the pulp cavity.
+      Root canal treatment is a dental procedure designed to treat an infected
+      or inflamed tooth, relieving pain and preventing the need for extraction.
+      Here's what you need to know:
+
+
+      During the treatment, the infected pulp of the tooth is removed, and the inside of the tooth is carefully cleaned and disinfected. It is then filled and sealed with a rubber-like material to prevent further infection. In some cases, a crown may be placed on the treated tooth for added protection and strength.
+
+
+      When is it Needed: Root canal treatment is necessary when the pulp, which is the innermost layer of the tooth containing blood vessels, nerves, and connective tissues, becomes infected or inflamed due to deep decay, cracks, or fracture in the tooth.
+
+
+      Pain Management: Despite common misconceptions, root canal treatment is not as painful as it is often thought to be, thanks to modern techniques and the use of anesthesia.
+
+
+      Aftercare: Following a root canal, proper oral hygiene is crucial to ensure the tooth remains healthy. Regular brushing, flossing, and dental check-ups are necessary to maintain the tooth's health and prevent further issues.
+
+
+      Long-Term Benefits: Root canal treatment is a highly successful procedure that can save your natural tooth and prevent loss of tooth due to extraction. It helps restore normal biting force and maintains the natural appearance of the tooth.
     imageUrl: img/picture4.png
   - heading: Full Mouth Rehabilitation - No more jaw joint pain
     text: "Full mouth rehabilitation, a  process of rebuilding or simultaneously
