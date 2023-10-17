@@ -18,7 +18,7 @@ intro:
 
 
 values:
-  heading: What sets us apart
+  heading: Why choose us
   image: img/dental-mirrors.jpg
   text: >-
     Having accumulated over 20 years of dental experience, our team has honed
