@@ -29,7 +29,7 @@ values:
       Uneven or Irregularly Shaped Teeth: Veneers can create a more symmetrical and aesthetically pleasing appearance for teeth that are irregularly shaped or have uneven surfaces.
 
 
-      Gaps between Teeth: Veneers can be used to close small gaps or spaces between teeth, providing a more uniform and aligned smile.
+      " "Gaps between Teeth: Veneers can be used to close small gaps or spaces between teeth, providing a more uniform and aligned smile.
 
 
       Minor Misalignments: In some cases, veneers can be an alternative to orthodontic treatment for minor misalignments, creating the appearance of straighter teeth.
