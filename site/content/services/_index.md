@@ -67,13 +67,30 @@ values:
 
 
     imageUrl: img/ozkan-guner-5pm7ed-fsnm-unsplash.jpg
-  - heading: Dental Implants - Replace those missing teeth
-    text: >
-      Dental implants are a great way to replace missing teeth and also provide
-      a fixed solution to having removable partial or complete
-      dentures.  Implants provide excellent support and stability for these
-      dental appliances..
-    imageUrl: img/favpng_dental-implant-dentistry-dentures_9r12tvdf.png
+  - heading: Dental Implants - The Solution to Missing Teeth
+    text: >-
+      Dental implants are replacements for missing teeth. They look and function
+      like natural teeth. They provide a strong foundation for fixed or
+      removable replacement teeth and are designed to blend in with your other
+      teeth. They help restore your ability to chew food and improve your smile
+      and overall oral health.  They provide a strong foundation for fixed or
+      removable replacement teeth that are made to match your natural teeth. 
+
+
+      The process of getting dental implants involves multiple steps, including a comprehensive dental exam, the implant placement surgery, and the placement of the artificial tooth. The implant team at Sparkle Dental Clinic will guide you through each step and ensure your comfort throughout the process.
+
+
+      Benefits: Dental implants can improve your overall oral health, enhance your ability to chew and speak, and restore your smile. They are a long-term solution and can last a lifetime with proper care.
+
+
+      Aftercare: Proper oral hygiene is crucial for the success of your dental implants. Regular brushing, flossing, and dental check-ups are necessary to ensure the health of your implants and surrounding natural teeth.
+
+
+      Cost Consideration: While the initial cost of dental implants may be higher than other tooth replacement options, they are a long-term investment in your oral health. 
+
+
+      Remember, dental implants can significantly improve your quality of life and give you the confidence to smile again.
+    imageUrl: img/dental_implants_600.jpg
   - heading: Root Canal Treatment -  from painful to painless tooth
     text: >
       Root canal treatment is sometimes called root canal therapy or endodontic
