@@ -1,6 +1,6 @@
 ---
 title: Patient Services
-image: img/people-wearing-white-shirt-working-on-woman-s-teeth-3779709.jpg
+image: img/pexels-karolina-grabowska-6627536.jpg
 values:
   - heading: Dental Examination with Digital X Ray
     text: >-
