@@ -1,25 +1,21 @@
 ---
 title: Crafting Confident Smiles, Every Day
-subtitle: Join us at Sparkle Dental Clinic, Tiruppur to discover the art of
-  exceptional dental care, empowering you to embrace a healthier, more confident
-  smile
-image: img/diana-polekhina-q_o_ob-3ny4-unsplash.jpg
+subtitle: Sparkle Dental Clinic, Tiruppur
+image: img/diana-polekhina-pbavxzzg8ug-unsplash.jpg
 blurb:
-  heading: Contact Us
-  text: >+
-    No. 23, Bungalow Rd Extension, Avinashi Road, Tiruppur, Tamil Nadu 641
-    602     
-
-    Ph: +91 90431 93021
+  heading: Speak to Our Dental Care Team
+  text: |+
+    No. 23, Bungalow Rd Extension, Avinashi Road, Tiruppur, Tamil Nadu      
+     +91 90431 - 93021
 
 intro:
-  heading: Everything You Need Under One Roof
-  text: >
-    Our multi specialty dental clinic allows you to receive all needed dental
-    care right here in our state-of-art office – from dental cleanings and
-    fillings to dental implants and extractions to smile makeover. 
+  heading: Your Total Dental Care Hub
+  text: >-
+    Discover the difference at SPARKLE DENTAL CLINIC, where our experienced team
+    of dental professionals is committed to delivering personalized care and
+    effective treatments that prioritize your oral health and well-being.
 
-    With care, compassion, competence and commitment, we strive to give you the best.
+    Join us at  to discover the art of exceptional dental care, empowering you to embrace a healthier, more confident smile
 values:
   heading: Specialized Dentistry with Personalised Care
   image: img/dental-mirrors.jpg
