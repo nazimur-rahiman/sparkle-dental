@@ -1,5 +1,5 @@
 ---
-title: '"Crafting Confident Smiles, Every Day"'
+title: Crafting Confident Smiles, Every Day
 subtitle: "Join us at Sparkle Dental Clinic, Tiruppur to discover the art of
   exceptional dental care, empowering you to embrace a healthier, more confident
   smile. "
