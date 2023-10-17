@@ -2,14 +2,12 @@
 title: Patient Services
 image: img/pexels-karolina-grabowska-6627536.jpg
 values:
-  - heading: Dental Examination with Digital X Ray
-    text: >-
-      We believe that most people want to keep their teeth for a lifetime. Our
-      goal is to help you do this by providing comprehensive and high quality
-      dentistry.
-
-      Equipped with the most modern technologies, we strive to give our patient's a pain free experience. 
-    imageUrl: img/dental-mirrors.jpg
+  - heading: Comprehensive Dental Check-Up with Advanced Digital X-Ray
+    text: Get a detailed check-up of your teeth with our complete dental exam, using
+      the newest digital X-ray tech. Our precise imaging allows for a
+      comprehensive understanding of your dental condition, enabling us to
+      deliver tailored solutions that prioritize your long-term oral well-being
+    imageUrl: img/quang-tri-nguyen-t-iifflk3ku-unsplash.jpg
   - heading: Cosmetic dentistry - Veneers and Laminates
     text: >
       We offer a vast range of cosmetic procedures to help you achieve a
