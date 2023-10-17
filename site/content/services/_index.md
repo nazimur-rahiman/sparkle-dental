@@ -1,5 +1,5 @@
 ---
-title: Patient Services
+title: Dental Healthcare Services
 image: img/pexels-karolina-grabowska-6627536.jpg
 values:
   - heading: Comprehensive Dental Check-Up with Advanced Digital X-Ray
