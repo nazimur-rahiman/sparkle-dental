@@ -11,7 +11,7 @@ values:
       oral well-being
 
 
-      A comprehensive dental check-up is necessary for several reasons:
+      A regular dental check-up is necessary for several reasons:
 
 
       Early Detection of Issues: It helps in the early detection of dental problems such as cavities, gum disease, and oral cancer, allowing for timely intervention and treatment.
