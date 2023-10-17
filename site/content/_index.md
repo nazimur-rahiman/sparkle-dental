@@ -3,7 +3,7 @@ title: Crafting Confident Smiles, Every Day
 subtitle: Join us at Sparkle Dental Clinic, Tiruppur to discover the art of
   exceptional dental care, empowering you to embrace a healthier, more confident
   smile
-image: img/diana-polekhina-fmb7idfjhtm-unsplash.jpg
+image: img/diana-polekhina-q_o_ob-3ny4-unsplash.jpg
 blurb:
   heading: Contact Us
   text: >+
