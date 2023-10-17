@@ -11,9 +11,10 @@ values:
   - heading: "Cosmetic dentistry - A New Smile Awaits: Transformative Veneers and
       Laminates"
     text: >
-      We offer a vast range of cosmetic procedures to help you achieve a
-      beautiful smile. These services include porcelain crowns, veneers, teeth
-      whitening, dental implants, digital smile designing and Invisalign.....
+      Get ready for a brand-new smile with our special veneers and laminates.
+      Our experienced  dentist at Sparkle Dental Clinic can make your teeth look
+      better, feel great, and give you the confidence to smile more. Experience
+      the joy of a beautiful smile tailored just for you.
     imageUrl: img/ozkan-guner-5pm7ed-fsnm-unsplash.jpg
   - heading: Dental Implants - Replace those missing teeth
     text: >
