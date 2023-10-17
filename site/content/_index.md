@@ -22,7 +22,7 @@ values:
   heading: What sets us apart
   image: img/dental-mirrors.jpg
   text: >-
-    Having accumulated over 17 years of clinical experience, our team has honed
+    Having accumulated over 20 years of dental experience, our team has honed
     their skills in addressing an extensive range of dental and oral issues.
     From routine check-ups and treatments to more intricate procedures like
     dental implants and digital smile designing, we handle each aspect with
