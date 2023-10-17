@@ -122,28 +122,28 @@ values:
   - heading: "Perfecting Smiles: Our Orthodontic Services"
     imageUrl: img/atikah-akhtar-hkaylaf1ndw-unsplash.jpg
     text: >-
-      1. **Orthodontic Treatment Overview:** Orthodontic treatment focuses on
+      Orthodontic Treatment Overview: Orthodontic treatment focuses on
       correcting the alignment of teeth and jaws. At Sparkle dental clinic we
       use various dental appliances, such as braces, aligners, and retainers, to
       improve the functionality and aesthetics of the mouth.
 
 
-      2. **Benefits of Orthodontic Treatment:** Orthodontic treatment not only enhances the appearance of your smile but also plays a crucial role in improving overall oral health. By aligning the teeth and jaws properly, orthodontic treatment can alleviate issues like misaligned bites, overcrowding, and jaw joint disorders.
+      Benefits of Orthodontic Treatment: Orthodontic treatment not only enhances the appearance of your smile but also plays a crucial role in improving overall oral health. By aligning the teeth and jaws properly, orthodontic treatment can alleviate issues like misaligned bites, overcrowding, and jaw joint disorders.
 
 
-      3. **Common Orthodontic Issues:** Some common orthodontic issues include overcrowded or widely spaced teeth, and crooked teeth, overbites, underbites, and crossbites. These issues can lead to difficulties in chewing, speech problems, and even self-esteem issues.
+      Common Orthodontic Issues: Some common orthodontic issues include overcrowded or widely spaced teeth, and crooked teeth, overbites, underbites, and crossbites. These issues can lead to difficulties in chewing, speech problems, and even self-esteem issues.
 
 
-      4. **Treatment Process:** The orthodontic treatment process typically begins with a comprehensive evaluation, including X-rays and impressions, to create a customized treatment plan. Based on the specific needs of the patient, the orthodontist at Sparkle Dental Clinic will recommend the most suitable treatment option, which may involve the use of braces, clear aligners, or other orthodontic appliances.
+      Treatment Process: The orthodontic treatment process typically begins with a comprehensive evaluation, including X-rays and impressions, to create a customized treatment plan. Based on the specific needs of the patient, the orthodontist at Sparkle Dental Clinic will recommend the most suitable treatment option, which may involve the use of braces, clear aligners, or other orthodontic appliances.
 
 
-      5. **Duration of Treatment:** The duration of orthodontic treatment varies depending on the complexity of the case and the chosen treatment method. While some cases may require only a few months, others might take a couple of years to achieve the desired results. Regular check-ups and adjustments are necessary to monitor progress and ensure the effectiveness of the treatment.
+      Duration of Treatment: The duration of orthodontic treatment varies depending on the complexity of the case and the chosen treatment method. While some cases may require only a few months, others might take a couple of years to achieve the desired results. Regular check-ups and adjustments are necessary to monitor progress and ensure the effectiveness of the treatment.
 
 
-      6. **Post-Treatment Care:** After the completion of orthodontic treatment, patients are usually required to wear retainers to maintain the corrected position of their teeth. It's essential to follow the orthodontist's instructions diligently to ensure the long-term success of the treatment.
+      Post-Treatment Care:  After the completion of orthodontic treatment, patients are usually required to wear retainers to maintain the corrected position of their teeth. It's essential to follow the orthodontist's instructions diligently to ensure the long-term success of the treatment.
 
 
-      7. **Maintaining Oral Hygiene:** Proper oral hygiene is crucial during orthodontic treatment. Patients should pay extra attention to cleaning their teeth and braces or aligners to prevent plaque buildup and the development of cavities.
+      Maintaining Oral Hygiene: Proper oral hygiene is crucial during orthodontic treatment. Patients should pay extra attention to cleaning their teeth and braces or aligners to prevent plaque buildup and the development of cavities.
 
 
       Schedule an appoint with our Orthodontist for specific details and advice tailored to your needs
