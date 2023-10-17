@@ -60,7 +60,6 @@ values:
       Minor Misalignments: In some cases, veneers can be an alternative to orthodontic treatment for minor misalignments, creating the appearance of straighter teeth.
 
 
-      It's important to consult with a dental professional to determine if veneers are suitable for your specific dental needs.
 
 
 
