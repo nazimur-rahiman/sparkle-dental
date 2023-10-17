@@ -8,12 +8,13 @@ values:
       comprehensive understanding of your dental condition, enabling us to
       deliver tailored solutions that prioritize your long-term oral well-being
     imageUrl: img/quang-tri-nguyen-t-iifflk3ku-unsplash.jpg
-  - heading: Cosmetic dentistry - Veneers and Laminates
+  - heading: "Cosmetic dentistry - A New Smile Awaits: Transformative Veneers and
+      Laminates"
     text: >
       We offer a vast range of cosmetic procedures to help you achieve a
       beautiful smile. These services include porcelain crowns, veneers, teeth
       whitening, dental implants, digital smile designing and Invisalign.....
-    imageUrl: img/picture3.jpg
+    imageUrl: img/ozkan-guner-5pm7ed-fsnm-unsplash.jpg
   - heading: Dental Implants - Replace those missing teeth
     text: >
       Dental implants are a great way to replace missing teeth and also provide
