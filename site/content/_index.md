@@ -10,14 +10,13 @@ blurb:
 
 intro:
   heading: Your Total Dental Care Hub
-  text: >
+  text: >+
     Discover the difference at SPARKLE DENTAL CLINIC, where our experienced team
     of dental professionals is committed to delivering personalized care,
     exceptional and effective treatments that prioritize your oral health and
     well-being.
 
 
-    Unlike chain clinics, our team of dental care providers remains unchanged, emphasizing the importance of a consistent approach to your care.
 values:
   heading: What sets us apart
   image: img/dental-mirrors.jpg
@@ -29,5 +28,8 @@ values:
     precision and care.
 
 
-    Furthermore, we firmly believe that maintaining good oral health goes hand in hand with ensuring overall well-being. Understanding the crucial connection between oral health and its impact on general health, we prioritize comprehensive care that not only enhances your smile but also contributes to your overall health and wellness."
+    Unlike chain clinics, our team of dental care providers remains unchanged, emphasizing the importance of a consistent approach to your care.
+
+
+    Furthermore, we firmly believe that maintaining good oral health goes hand in hand with ensuring overall well-being. We prioritize comprehensive care that not only enhances your smile but also contributes to your overall health and wellness."
 ---
