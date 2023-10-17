@@ -4,10 +4,11 @@ image: img/pexels-karolina-grabowska-6627536.jpg
 values:
   - heading: Comprehensive Dental Check-Up with Advanced Digital X-Ray
     text: >-
-      Get a detailed check-up of your teeth with our complete dental exam, using
-      the newest digital X-ray tech. Our precise imaging allows for a
-      comprehensive understanding of your dental condition, enabling us to
-      deliver tailored solutions that prioritize your long-term oral well-being
+      At Sparkle Dental Clinic get a detailed check-up of your teeth with our
+      complete dental exam, using the newest digital X-ray tech. Our precise
+      imaging allows for a comprehensive understanding of your dental condition,
+      enabling us to deliver tailored solutions that prioritize your long-term
+      oral well-being
 
 
       A comprehensive dental check-up is necessary for several reasons:
