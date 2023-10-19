@@ -130,19 +130,20 @@ values:
       Indications for full mouth rehabilitation may include:
 
 
-      Severe tooth wear
+      1.Severe tooth wear
 
-      Multiple missing teeth
+      2. Multiple missing teeth
 
-      Extensive tooth decay
+      3. Extensive tooth decay
 
-      Misaligned bite or jaw issues
+      4. Misaligned bite or jaw issues
 
-      Chronic jaw pain or headaches related to dental problems
+      5. Chronic jaw pain or headaches related to dental problems
 
-      Significant damage due to trauma or injury
+      6. Significant damage due to trauma or injury
 
-      Widespread gum disease or periodontal issues
+      7. Widespread gum disease or periodontal issues
+
 
       Procedures involved in full mouth rehabilitation typically encompass:
 
