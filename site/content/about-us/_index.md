@@ -13,7 +13,7 @@ intro:
     - image: img/cerrtificates.png
       text: "Awards and Recognition "
   heading: What sets us apart
-  description: >-
+  description: >
     
 
     * "Consistent Care, Familiar Face: Your Trusted Dentist Always Here""
@@ -36,12 +36,34 @@ intro:
 
 
 
-    Continuing dental education programs play a pivotal role in keeping our dental team abreast of the latest advancements and techniques in the field, ensuring that we consistently deliver top-notch care. By staying updated with the latest trends and innovations, we can provide our patients with the most effective and cutting-edge treatments, resulting in enhanced treatment outcomes and a superior patient experience. Our commitment to ongoing education directly translates into improved patient care, instilling confidence and peace of mind in every individual we serve
+    * Continuously educating and adopting state-of-the-art tools for optimal patient outcomes
 
+         Continuing dental education programs play a pivotal role in keeping our 
+         dental   team abreast of the latest advancements and techniques in the field, 
+         ensuring that we consistently deliver top-notch care. 
 
-    Dentistry is a continuously evolving field. We regularly attend international and national workshops to upgrade our knowledge. We also constantly equip the clinic with instruments and materials that meet industry standards. 
-        Our instruments are disinfected and sterilized , along with appropriate barrier protection to ensure a safe environment. 
-         Surrounded by both indoor and outdoor greenery, the calming influence of this natural environment is conducive to positive work environment.
+         By staying updated with the latest trends and innovations, we can provide our 
+         patients with the most effective and cutting-edge treatments, resulting in 
+        enhanced treatment outcomes and a superior patient experience. 
+
+        Our commitment to ongoing education directly translates into improved 
+        patient care, instilling confidence and peace of mind in every individual we 
+        serve
+
+     * Welcome to our Clinic Amidst Lush Greenery
+
+        With the gentle rustle of leaves and the vibrant hues of nature gracing our 
+       surroundings, we aim to create an atmosphere that promotes relaxation and 
+        well- being, allowing for a more comfortable and soothing experience during 
+       your visit.
+
+        Should you feel inclined to unwind, we offer a collection of novels for your 
+        reading pleasure, providing an opportunity to relax and immerse yourself in 
+        captivating stories within our welcoming space.
+
+       Engage your little ones with our delightful assortment of coloring books and 
+       puzzles, designed to spark their creativity and keep them happily occupied during 
+        your visit.
 main:
   heading: CDE
   description: >
