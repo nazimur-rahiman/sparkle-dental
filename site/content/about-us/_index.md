@@ -1,8 +1,8 @@
 ---
-title: Learn more
+title: Creating Lasting Smiles, Building Lasting Relationships
 image: img/393586-pcf796-122.jpg
-heading: Creating Lasting Smiles, Building Lasting Relationships
-description: Bringing Sparkle to Your Smile and Confidence to Your Life
+heading: Bringing Sparkle to Your Smile and Confidence to Your Life
+description: SPARKLE DENTAL CLINIC - BEST DENTAL CLINIC IN TIRUPPUR
 intro:
   blurbs:
     - image: img/brands.png
@@ -14,14 +14,37 @@ intro:
       text: "Awards and Recognition "
   heading: What we offer
   description: >-
-    With over 17 years of clinical experience we skillfully deal with all your
-    regular dental and oral complaints to advanced procedures like implants and
-    digital smile designing, to give you a holistic treatment. 
-        Dentistry is a continuously evolving field. We regularly attend international and national workshops to upgrade our knowledge. We also constantly equip the clinic with instruments and materials that meet industry standards. 
+    What sets us apart
+
+
+    * "Consistent Care, Familiar Face: Your Trusted Dentist Always Here""
+
+         Our lead dentist, Dr. Irshad, brings over 20 years of invaluable experience and 
+         is always available for your dental needs
+
+         Personalized attention from a the same experienced dentist,  fostering strong 
+          patient-dentist relationships
+
+          Customized treatment plans tailored to individual patient needs.
+
+         Direct communication and easy accessibility to the dentist.
+
+
+    * Your Safety, Our Priority: Rigorous Sterilization Standards"
+
+
+    Our clinic adheres to the highest standards of sterilization, utilizing state-of-the-art equipment and approved disinfectants. From dental instruments to surfaces and equipment, every aspect of our facility undergoes thorough sterilization procedures  guaranteeing the utmost safety and cleanliness.    
+
+
+
+    Continuing dental education programs play a pivotal role in keeping our dental team abreast of the latest advancements and techniques in the field, ensuring that we consistently deliver top-notch care. By staying updated with the latest trends and innovations, we can provide our patients with the most effective and cutting-edge treatments, resulting in enhanced treatment outcomes and a superior patient experience. Our commitment to ongoing education directly translates into improved patient care, instilling confidence and peace of mind in every individual we serve
+
+
+    Dentistry is a continuously evolving field. We regularly attend international and national workshops to upgrade our knowledge. We also constantly equip the clinic with instruments and materials that meet industry standards. 
         Our instruments are disinfected and sterilized , along with appropriate barrier protection to ensure a safe environment. 
          Surrounded by both indoor and outdoor greenery, the calming influence of this natural environment is conducive to positive work environment.
 main:
-  heading: "Continuing Dental Education "
+  heading: CDE
   description: >
     We are passionate about being the best in the field. Attending workshops and
     conferences under guidance of pioneers of National and International repute,
