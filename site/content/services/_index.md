@@ -201,23 +201,61 @@ values:
 
 
       Schedule an appoint with our Orthodontist for specific details and advice tailored to your needs
-  - heading: Child Dental Care - Path to improved health
+  - heading: Child Dental Care - Caring for Little Smiles, One Step at a Time
     text: >+
       Healthy teeth and oral hygiene are absolutely necessary to your child’s
       overall health. Teeth help the child eat and talk. Milk teeth are
       important and  need to last till the permanent are ready to erupt.
 
-      We understand that your child’s well-being is always on your mind. The care of your child’s teeth and gums begins with you - dental hygiene should begin when your child is a baby.
+
+      Pediatric dentistry is a specialized branch that focuses on the dental needs of children, from infancy through adolescence. 
 
 
-      •	Regular dental check up and restoration of carious teeth
-
-      •	Flouride varnish help in managing decay
-
-      •	If your child plays sports, they should wear a mouth guard
+      At our Sparkle Dental Clinic, we understand the unique requirements of our young patients, offering a warm and welcoming environment that aims to create a positive and nurturing dental experience for children of all ages.
 
 
-    imageUrl: img/dentist-428646_1280.jpg
+      Indications for Pediatric Dentistry:
+
+
+      1. Early childhood dental caries and preventive care
+
+      2. Guidance for proper oral hygiene habits and nutritional counseling
+
+      3. Assessment and management of teething issues and other oral developmental concerns
+
+      4. Monitoring and guidance for orthodontic concerns and misalignment issues
+
+      5. Diagnosis and treatment of pediatric periodontal disease and other oral conditions
+
+      6. Education and support for parents regarding their child's oral health and development
+
+
+      Procedures in Child Dentistry:
+
+
+      1. Gentle and comprehensive oral examinations for children of all ages
+
+      2. Preventive treatments such as fluoride application and dental sealants
+
+      3. Early orthodontic assessments and intervention when necessary
+
+      4. Restorative procedures like fillings, crowns, and pulpotomies tailored for children
+
+      5. Behavior management techniques to alleviate dental anxieties and promote cooperation during treatments
+
+      6. Specialized guidance for maintaining good oral health habits at home, including brushing and flossing techniques
+
+      7. Collaborative care with other healthcare professionals to ensure comprehensive and holistic treatment for our young patients.
+
+
+      To know more about the importance of preventive care and regular children dental check-ups to maintain optimal oral health during childhood and beyond, contact us at Sparkle Dental Clinic., 9043193021.
+
+
+
+
+
+
+    imageUrl: img/dentist-cleaning-child-s-teeth_23-2149195888.jpg
   - heading: Inlays & Onlays
     text: >-2
        Inlays are restorations from porcelain or composite resin material matching the color of the tooth, and provide almost invisible dental restoration while repairing the chewing surface. Dental inlays are generally more durable than regular fillings.
