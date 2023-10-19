@@ -1,8 +1,8 @@
 ---
-title: About Us
+title: Learn more
 image: img/393586-pcf796-122.jpg
-heading: 'About Us - Dentistry is our passion and addiction. It is not just a job. '
-description: 'Dentistry is our passion and addiction. It is not just a job. '
+heading: Creating Lasting Smiles, Building Lasting Relationships
+description: Bringing Sparkle to Your Smile and Confidence to Your Life
 intro:
   blurbs:
     - image: img/brands.png
@@ -11,7 +11,7 @@ intro:
         Indian brands with proven quality assurance. We do not compromise on
         patient safety.
     - image: img/cerrtificates.png
-      text: 'Awards and Recognition '
+      text: "Awards and Recognition "
   heading: What we offer
   description: >-
     With over 17 years of clinical experience we skillfully deal with all your
@@ -21,7 +21,7 @@ intro:
         Our instruments are disinfected and sterilized , along with appropriate barrier protection to ensure a safe environment. 
          Surrounded by both indoor and outdoor greenery, the calming influence of this natural environment is conducive to positive work environment.
 main:
-  heading: 'Continuing Dental Education '
+  heading: "Continuing Dental Education "
   description: >
     We are passionate about being the best in the field. Attending workshops and
     conferences under guidance of pioneers of National and International repute,
@@ -38,15 +38,14 @@ main:
     alt: Alt1
 testimonials:
   - author: Ms. Ramya
-    quote: 'Treatment from skilled and knowledgeable dentists. '
+    quote: "Treatment from skilled and knowledgeable dentists. "
   - author: Ms. Soumya
     quote: Very hygienic and personalised care from experienced and expert doctors.
 full_image: img/picture2.png
 pricing:
   heading: Pricing
-  description: >-
-    We have a treatment plan to suit your budget, without compromising on the
-    quality. We can also help you with EMI options.
+  description: We have a treatment plan to suit your budget, without compromising
+    on the quality. We can also help you with EMI options.
   plans: []
 type: about-us
 ---
