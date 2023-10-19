@@ -228,13 +228,47 @@ values:
       wholesome meal becomes more important as we age. Healthy teeth and mouth
       are needed   to chew food and maintain a good quality of life. 
 
-      Lot of treatment options are available to replace or restore teeth.
 
-      •	Preventive care
+      As individuals age, they may encounter specific dental challenges that require tailored care and attention. At Sparkle Dental Clinic, we prioritize the unique needs of our senior patients, providing comprehensive and compassionate dental services to ensure their continued oral well-being.
 
-      •	Denture 
 
-      •	All on 4 implants
+      Indications for Geriatric Dentistry:
+
+
+      1. Age-related dental conditions such as tooth loss and gum disease
+
+      2. Dry mouth or decreased salivary flow leading to an increased risk of dental decay
+
+      3. Diminished dexterity, making oral hygiene maintenance more challenging
+
+      4. Dental conditions associated with underlying health issues like diabetes or cardiovascular disease
+
+      5. Management of pre-existing dental restorations and prosthetics requiring upkeep or replacement
+
+
+      Procedures in Geriatric Dentistry:
+
+
+      1. Comprehensive oral examinations and tailored treatment planning
+
+      2. Proactive management of gum disease and tooth decay
+
+      3. Restorative treatments including dental implants, bridges, and dentures
+
+      4. Periodontal therapies to preserve gum health and prevent tooth loss
+
+      5. Oral health education and assistance in maintaining effective oral hygiene practices
+
+      6. Collaborative care with other healthcare providers to ensure holistic well-being
+
+      7. Sensitive and empathetic approach to dental care, addressing any anxieties or specific needs of our senior patients.
+
+
+      If you have an immobile elderly family member in need of home care, rest assured that we can arrange suitable and practical services to be delivered in the comfort of their own home
+
+
+      If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at 9043193021. We are dedicated to providing you with the support and information you require.
+
 
     imageUrl: img/19451.jpg
   - heading: Tooth extraction
