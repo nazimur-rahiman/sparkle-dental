@@ -113,24 +113,65 @@ values:
       Long-Term Benefits: Root canal treatment is a highly successful procedure that can save your natural tooth and prevent loss of tooth due to extraction. It helps restore normal biting force and maintains the natural appearance of the tooth.
     imageUrl: img/picture4.png
   - heading: Full Mouth Rehabilitation - No more jaw joint pain
-    text: "Full mouth rehabilitation, a  process of rebuilding or simultaneously
-      restoring all of the teeth in both the upper and lower jaws. It is a
-      treatment tailor made for you, to optimize the health of entire mouth.
-      This may require restoration and/or replacement of teeth. Patients with
-      following conditions will benefit from this:\ 
+    text: >+
+      Full mouth rehabilitation, also known as full mouth reconstruction, is a
+      comprehensive dental treatment that aims to address extensive dental
+      issues affecting the entire mouth. This tailored approach involves a
+      combination of restorative procedures, such as crowns, bridges, dental
+      implants, and veneers, among others, to restore both the function and
+      aesthetics of the entire mouth. Through meticulous planning and
+      personalized treatment, our full mouth rehabilitation services aim to
+      renew your oral health, enhance your smile, and improve your overall
+      quality of life. Our expert team is dedicated to providing you with a
+      comfortable and effective treatment journey, ensuring a confident and
+      radiant smile that lasts a lifetime.
 
-      •\tTeeth  lost due to decay or other reasons.
+
+      Indications for full mouth rehabilitation may include:
 
 
-      •\tSeverely worn out teeth.
+      Severe tooth wear
+
+      Multiple missing teeth
+
+      Extensive tooth decay
+
+      Misaligned bite or jaw issues
+
+      Chronic jaw pain or headaches related to dental problems
+
+      Significant damage due to trauma or injury
+
+      Widespread gum disease or periodontal issues
+
+      Procedures involved in full mouth rehabilitation typically encompass:
 
 
-      •\tComplaint of jaw, muscle and headache pain, which may be due to\ 
+      Comprehensive dental examinations and imaging
 
-      \       faulty bite      \ 
+      1. Treatment planning tailored to the patient's specific needs
 
-      \  "
-    imageUrl: img/dental-teeth-mold.jpg
+      2. Restorative procedures such as dental crowns, bridges, and implants
+
+      3. Periodontal therapies to address gum disease and ensure a healthy foundation
+
+      4. Orthodontic interventions to correct misalignments and bite issues
+
+      5. Endodontic treatments for damaged or infected tooth pulp
+
+      6. Cosmetic procedures like veneers or teeth whitening for improved aesthetics
+
+      7. Prosthodontic solutions such as dentures or partials for extensive tooth loss
+
+
+      Regular follow-up appointments and maintenance to ensure long-term success and oral health.
+
+
+      If you have any further questions or concerns, please do not hesitate to reach out to Sparkle Dental Clinic, at 9043190431. We are more than happy to assist you with any inquiries you may have.
+
+
+
+    imageUrl: img/expressive-senior-woman-posing.jpg
   - heading: "Perfecting Smiles: Our Orthodontic Services"
     imageUrl: img/atikah-akhtar-hkaylaf1ndw-unsplash.jpg
     text: >-
