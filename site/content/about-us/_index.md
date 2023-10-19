@@ -12,10 +12,9 @@ intro:
         patient safety.
     - image: img/cerrtificates.png
       text: "Awards and Recognition "
-  heading: What we offer
+  heading: What sets us apart
   description: >-
-    What sets us apart
-
+    
 
     * "Consistent Care, Familiar Face: Your Trusted Dentist Always Here""
 
