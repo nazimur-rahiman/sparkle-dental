@@ -1,6 +1,6 @@
 ---
 title: Creating Lasting Smiles, Building Lasting Relationships
-image: img/393586-pcf796-122.jpg
+image: img/dentist-with-smile.jpg
 heading: Bringing Sparkle to Your Smile and Confidence to Your Life
 description: SPARKLE DENTAL CLINIC - BEST DENTAL CLINIC IN TIRUPPUR
 intro:
