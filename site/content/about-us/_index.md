@@ -65,12 +65,10 @@ intro:
        puzzles, designed to spark their creativity and keep them happily occupied during 
         your visit.
 main:
-  heading: CDE
-  description: >
-    We are passionate about being the best in the field. Attending workshops and
-    conferences under guidance of pioneers of National and International repute,
-    allows  us to learn, improve  and discover viable ways to improve on the
-    patient care. 
+  heading: '"Constantly enhancing skills through international and national workshops'
+  description: >-
+    
+    Constantly enhancing skills through workshops is essential to stay updated with the latest industry trends and techniques, fostering professional growth and ensuring the delivery of high-quality services to our valued patients. It allows our team to remain at the forefront of advancements in the field, enhancing their expertise and proficiency to provide optimal care and innovative solutions.
   image1:
     alt: Dr. Irshad
     image: /img/irshad2.jpg
@@ -85,11 +83,24 @@ testimonials:
     quote: "Treatment from skilled and knowledgeable dentists. "
   - author: Ms. Soumya
     quote: Very hygienic and personalised care from experienced and expert doctors.
-full_image: img/picture2.png
+  - quote: My recent experience for tooth filling at  Sparkle Dental Clinic was
+      outstanding. I am thoroughly impressed the advanced technology,
+      cleanliness and expert care provided by Dr. Irshad. I left with a healthy
+      smile and wholeheartedly recommend Sparkle Dental Clinic for dental
+      treatment.
+    author: Logesh Boopathi
+  - quote: In this pandemic situation i struggle hard with tooth pain and i am
+      searching dental hospital to cure my pain . Finally I find your address
+      and get relief from the most dangerous tooth pain .My heartly wishes to
+      your job sir. You Are a brave man . your service is so essential to comman
+      people in this pandemic situation. Thanks sir
+    author: "Karunaidass Samson "
+full_image: img/young-woman-with-thumbs-up-clinic.jpg
 pricing:
   heading: Pricing
-  description: We have a treatment plan to suit your budget, without compromising
-    on the quality. We can also help you with EMI options.
+  description: "We offer flexible treatment plans tailored to your budget,
+    ensuring uncompromised quality, and provide assistance with EMI options for
+    your convenience. "
   plans: []
 type: about-us
 ---
