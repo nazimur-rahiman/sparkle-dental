@@ -63,7 +63,7 @@ values:
     text: >+
       Dental veneers/ Laminates are thin, custom-made shells crafted from
       tooth-colored materials designed to cover the front surface of teeth.
-      These versatile cosmetic enhancements effectively mask dental
+      These versatile cosmetic dental treatment effectively mask dental
       imperfections such as discoloration, chips, or misalignments, helping to
       achieve a  natural-looking smile. 
 
@@ -92,22 +92,22 @@ values:
       1. Consultation and Treatment Planning: The initial step involves a comprehensive dental examination and discussion with the dentist to determine the suitability of veneers for the patient's specific dental concerns.
 
 
-      Preparation of Teeth: A thin layer of enamel is typically removed from the tooth surface to create space for the veneer. This process is often performed under local anesthesia to ensure patient comfort.
+      2. Preparation of Teeth: A thin layer of enamel is typically removed from the tooth surface to create space for the veneer. This process is often performed under local anesthesia to ensure patient comfort.
 
 
-      Impressions and Customization: Impressions of the prepared teeth are taken to create custom-made veneers that perfectly fit the patient's dental structure and desired aesthetic goals.
+      3. Impressions and Customization: Impressions of the prepared teeth are taken to create custom-made veneers that perfectly fit the patient's dental structure and desired aesthetic goals.
 
 
-      Temporary Veneers (if necessary): Temporary veneers may be placed to protect the prepared teeth while the permanent veneers are being fabricated in a dental laboratory.
+      4. Temporary Veneers (if necessary): Temporary veneers may be placed to protect the prepared teeth while the permanent veneers are being fabricated in a dental laboratory.
 
 
-      Bonding of Veneers: Once the custom veneers are ready, they are bonded to the teeth using a special adhesive and light curing, creating a strong and durable bond.
+      5. Bonding of Veneers: Once the custom veneers are ready, they are bonded to the teeth using a special adhesive and light curing, creating a strong and durable bond.
 
 
-      Final Adjustments and Polishing: Any necessary adjustments are made to ensure the proper fit and bite alignment of the veneers. The dentist will then polish the veneers for a natural and seamless appearance.
+      6. Final Adjustments and Polishing: Any necessary adjustments are made to ensure the proper fit and bite alignment of the veneers. The dentist will then polish the veneers for a natural and seamless appearance.
 
 
-      Follow-up and Maintenance: Patients are advised on proper oral hygiene practices and may be scheduled for regular follow-up appointments to monitor the condition of the veneers and overall oral health. Regular dental check-ups are recommended to ensure the longevity of the veneers and maintain optimal oral health.
+      7. Follow-up and Maintenance: Patients are advised on proper oral hygiene practices and may be scheduled for regular follow-up appointments to monitor the condition of the veneers and overall oral health. Regular dental check-ups are recommended to ensure the longevity of the veneers and maintain optimal oral health.
 
 
 
@@ -121,7 +121,7 @@ values:
 
       2. Can dental veneers be used to address multiple dental issues simultaneously?
 
-      Ans": Veneers are versatile and can address various aesthetic concerns, including discoloration, chips, gaps, and misalignments. However, they may not be suitable for severe cases of misalignment or extensive tooth damage, which might require alternative treatments such as braces or crowns
+      Ans: Veneers are versatile and can address various aesthetic concerns, including discoloration, chips, gaps, and misalignments. However, they may not be suitable for severe cases of misalignment or extensive tooth damage, which might require alternative treatments such as braces or crowns
 
 
 
