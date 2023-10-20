@@ -287,15 +287,21 @@ values:
 
       1.Severe tooth wear
 
+
       2. Multiple missing teeth
+
 
       3. Extensive tooth decay
 
+
       4. Misaligned bite or jaw issues
+
 
       5. Chronic jaw pain or headaches related to dental problems
 
+
       6. Significant damage due to trauma or injury
+
 
       7. Widespread gum disease or periodontal issues
 
@@ -307,15 +313,21 @@ values:
 
       1. Treatment planning tailored to the patient's specific needs
 
+
       2. Restorative procedures such as dental crowns, bridges, and implants
+
 
       3. Periodontal therapies to address gum disease and ensure a healthy foundation
 
+
       4. Orthodontic interventions to correct misalignments and bite issues
+
 
       5. Endodontic treatments for damaged or infected tooth pulp
 
+
       6. Cosmetic procedures like veneers or teeth whitening for improved aesthetics
+
 
       7. Prosthodontic solutions such as dentures or partials for extensive tooth loss
 
