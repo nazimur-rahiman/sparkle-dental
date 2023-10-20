@@ -335,7 +335,7 @@ values:
       Regular follow-up appointments and maintenance to ensure long-term success and oral health.
 
 
-      If you have any further questions or concerns, please do not hesitate to reach out to Sparkle Dental Clinic, at 9043190431.Our dentists are more than happy to assist you with any inquiries you may have.
+      If you have any further questions or concerns, please do not hesitate to reach out to Sparkle Dental Clinic, at 9043190431.Our prosthodontist, periodontist and endodontist team are more than happy to assist you with any inquiries you may have.
 
 
 
