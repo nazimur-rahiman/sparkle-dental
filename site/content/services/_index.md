@@ -267,7 +267,7 @@ values:
 
       If you still have any doubts, the dental clinic near me can assist you. Reach out to schedule a consultation and have all your dental concerns addressed with professional care and guidance. Reach out to us at 9043193021
     imageUrl: img/picture4.png
-  - heading: Full Mouth Rehabilitation - No more jaw joint pain
+  - heading: "FULL MOUTH REHABILITATION FOR LASTING CONFIDENCE "
     text: >+
       Full mouth rehabilitation, also known as full mouth reconstruction, is a
       comprehensive dental treatment that aims to address extensive dental
