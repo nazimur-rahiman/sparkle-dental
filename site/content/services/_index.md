@@ -199,25 +199,48 @@ values:
       Dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle dental implant clinic to discover how dental implants can revitalize your smile and oral health.
     imageUrl: img/dental_implants_600.jpg
   - heading: Root Canal Treatment -  Pain Relief with Tooth Preservation for all ages
-    text: >
+    text: >-
       Root canal treatment is a dental procedure designed to treat an infected
-      or inflamed tooth, relieving pain and preventing the need for extraction.
-      Here's what you need to know:
+      or inflamed tooth. It relives pain and prevents the need for extraction. 
 
 
-      During the treatment, the infected pulp of the tooth is removed, and the inside of the tooth is carefully cleaned and disinfected. It is then filled and sealed with a rubber-like material to prevent further infection. In some cases, a crown may be placed on the treated tooth for added protection and strength.
+      What happens during root canal treatment?
 
 
-      When is it Needed: Root canal treatment is necessary when the pulp, which is the innermost layer of the tooth containing blood vessels, nerves, and connective tissues, becomes infected or inflamed due to deep decay, cracks, or fracture in the tooth.
+      During the treatment, the infected pulp of the tooth is removed, and the inside of the tooth is carefully cleaned and disinfected. It is then filled and sealed with a rubber-like material to prevent further infection. A crown may be placed on the treated tooth for added protection and strength. Inlay and onlays are also preferred now-a-days instead of crown.
 
 
-      Pain Management: Despite common misconceptions, root canal treatment is not as painful as it is often thought to be, thanks to modern techniques and the use of anesthesia.
+      When is it Needed: 
+
+      Root canal treatment is necessary when the pulp, which is the innermost layer of the tooth containing blood vessels, nerves, and connective tissues, becomes infected or inflamed due to deep decay, cracks, or fracture in the tooth.
 
 
       Aftercare: Following a root canal, proper oral hygiene is crucial to ensure the tooth remains healthy. Regular brushing, flossing, and dental check-ups are necessary to maintain the tooth's health and prevent further issues.
 
 
       Long-Term Benefits: Root canal treatment is a highly successful procedure that can save your natural tooth and prevent loss of tooth due to extraction. It helps restore normal biting force and maintains the natural appearance of the tooth.
+
+
+
+      FAQs
+
+
+      1. is Root Canal Treatment/RCT painful?
+
+      Ans: With modern techniques and advanced instruments root canal treatment with our dentist is hardly painful. 
+
+
+      2. Do you do single visit/one visit RCT in Sparkle Dental Clinic?
+
+      Ans: Absolutely! Sparkle Dental Clinic specializes in advanced single visit root canal treatments, ensuring efficient and effective care in just one appointment.
+
+
+      3. Can I have multiple visit RCT?
+
+      Ans: Certainly, multiple visit root canal treatment is also available at Sparkle Dental Clinic. Our dedicated team of dental professionals customizes treatment plans to accommodate varying dental needs
+
+
+      If you still have any doubts, the dental clinic near me can assist you. Reach out to schedule a consultation and have all your dental concerns addressed with professional care and guidance. Reach out to us at 9043193021
     imageUrl: img/picture4.png
   - heading: Full Mouth Rehabilitation - No more jaw joint pain
     text: >+
