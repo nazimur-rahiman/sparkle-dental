@@ -181,9 +181,9 @@ values:
       FAQS
 
 
-      1. Is there an upper age limit for receiving dental implants?
+      1. What is age limit for receiving dental implants?
 
-      Ans: Age is not a limiting factor for dental implant candidacy. As long as an individual is in good overall health and has sufficient jawbone density to support the implant, they can be considered for the procedure. 
+      Ans: Age is not a limiting factor for dental implant candidacy. As long as an individual is in good overall health and has sufficient jawbone density to support the implant,  our implant dental team can be consider you for implant procedure. 
 
 
       2. What care should I take after implant:
@@ -196,7 +196,7 @@ values:
       Ans: While the initial cost of dental implants may be higher than other tooth replacement options, they are a long-term investment in your oral health. 
 
 
-      Remember, dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle dental implant clinic at  to discover how dental implants can revitalize your smile and oral health."
+      Remember, dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle dental implant clinic to discover how dental implants can revitalize your smile and oral health.
     imageUrl: img/dental_implants_600.jpg
   - heading: Root Canal Treatment -  Pain Relief with Tooth Preservation for all ages
     text: >
