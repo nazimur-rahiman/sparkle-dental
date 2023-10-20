@@ -191,12 +191,12 @@ values:
       Ans:  Proper oral hygiene is crucial for the success of your dental implants. Regular brushing, flossing, and dental check-ups are necessary to ensure the health of your implants and surrounding natural teeth.
 
 
-      3. Is it expensive to have implants?
+      3. How much do implants cost?
 
-      Ans: While the initial cost of dental implants may be higher than other tooth replacement options, they are a long-term investment in your oral health. 
+      Ans: Dental implants are a durable investment in your  well-being for the long run.  Initial cost of dental implants may seem higher than other tooth replacement options, they benefit you in long run.
 
 
-      Remember, dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle dental implant clinic to discover how dental implants can revitalize your smile and oral health.
+      Dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle dental implant clinic to discover how dental implants can revitalize your smile and oral health.
     imageUrl: img/dental_implants_600.jpg
   - heading: Root Canal Treatment -  Pain Relief with Tooth Preservation for all ages
     text: >
