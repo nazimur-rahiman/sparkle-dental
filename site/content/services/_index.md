@@ -58,8 +58,8 @@ values:
 
 
     imageUrl: img/quang-tri-nguyen-t-iifflk3ku-unsplash.jpg
-  - heading: "Cosmetic dentistry - A New Smile Awaits: Transformative Veneers and
-      Laminates"
+  - heading: "COSMETIC DENTISTRY - A NEW SMILE AWAITS: TRANSFORMATIVE VENEERS AND
+      LAMINATES"
     text: >+
       Dental veneers/ Laminates are thin, custom-made shells crafted from
       tooth-colored materials designed to cover the front surface of teeth.
@@ -130,7 +130,7 @@ values:
 
 
     imageUrl: img/ozkan-guner-5pm7ed-fsnm-unsplash.jpg
-  - heading: Dental Implants - The Solution to Missing Teeth
+  - heading: DENTAL IMPLANTS - THE SOLUTION TO MISSING TEETH
     text: >-
       Dental implants are replacements for missing teeth. They look and function
       like natural teeth. They provide a strong foundation for fixed or
@@ -198,7 +198,7 @@ values:
 
       Dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle dental implant clinic to discover how dental implants can revitalize your smile and oral health.
     imageUrl: img/dental_implants_600.jpg
-  - heading: Root Canal Treatment -  Pain Relief with Tooth Preservation for all ages
+  - heading: ROOT CANAL TREATMENT -  PAIN RELIEF WITH TOOTH PRESERVATION FOR ALL AGES
     text: >-
       Root canal treatment is a dental procedure designed to treat an infected
       or inflamed tooth. It relives pain and prevents the need for extraction. 
@@ -220,6 +220,31 @@ values:
 
       Long-Term Benefits: Root canal treatment is a highly successful procedure that can save your natural tooth and prevent loss of tooth due to extraction. It helps restore normal biting force and maintains the natural appearance of the tooth.
 
+
+      Procedure:
+
+      1. An initial examination and X-rays are conducted to assess the tooth's condition and determine the extent of the infection or damage.
+
+
+      2. Local anesthesia is administered to ensure the patient is comfortable throughout the procedure.
+
+
+      3. An opening is made in the tooth to access the infected or inflamed pulp, which is then carefully removed.
+
+
+      4. The root canal is thoroughly cleaned, shaped, and disinfected to eliminate any remaining bacteria and debris.
+
+
+      5. The canal is filled with a biocompatible material to prevent recontamination and to support the tooth's structure.
+
+
+      6. A temporary filling may be placed to seal the tooth until the final restoration is ready.
+
+
+      7. In a subsequent visit, a permanent dental crown is placed to protect and strengthen the treated tooth, restoring its function and appearance.
+
+
+      Regular follow-up appointments are recommended to monitor the healing process and ensure the long-term success of the root canal treatment.
 
 
       FAQs
