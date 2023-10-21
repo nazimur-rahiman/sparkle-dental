@@ -657,7 +657,25 @@ values:
   - heading: 𝐈𝐍𝐋𝐀𝐘𝐒 𝐀𝐍𝐃 𝐎𝐍𝐋𝐀𝐘𝐒 - 𝐑𝐄𝐒𝐓𝐎𝐑𝐈𝐍𝐆 𝐒𝐌𝐈𝐋𝐄𝐒,
       𝐏𝐑𝐄𝐒𝐄𝐑𝐕𝐈𝐍𝐆 𝐒𝐓𝐑𝐄𝐍𝐆𝐓𝐇
     text: >+2
-       Inlays and onlays are advanced restorations that match the color of tooth and preserve thetooth structure. Dental inlays are generally more durable than regular fillings. 
+       Inlays and onlays are advanced restorations that match the color of tooth and preserve the tooth structure. These cosmetic dental fillings are generally more durable than regular fillings. 
+
+      Dental specialist at Sparkle Dental Clinic prefers these restorations as they offer a conservative approach, preserving as much natural tooth structure as possible while providing durability and aesthetic appeal.
+
+
+      Which dental patients are good for inlays and onlays:
+
+
+      1. Moderate Tooth Decay: When a tooth has experienced decay that is too extensive for a traditional filling but does not require a full dental crown
+
+
+      2. Fractured Teeth: In cases where a tooth has experienced a minor to moderate fracture or damage, an inlay or onlay can help restore its structure and function.
+
+
+      3. Large Fillings Replacement: In situations where an existing large filling needs replacement due to wear or failure, inlays or onlays can provide a more durable and conservative solution.
+
+
+      4. Cosmetic Enhancements: Inlays and onlays can also be used for cosmetic purposes, improving the appearance of teeth with structural issues, such as cracks or discoloration.
+
 
       Procedure
 
@@ -673,10 +691,18 @@ values:
 
       4. Placement of the Final Restoration: Once the custom inlay or onlay is ready, the temporary restoration, if used, is removed, and the permanent restoration is carefully placed and bonded to the tooth using dental cement. The dentist will ensure that the fit is precise and that the restoration seamlessly blends with the surrounding teeth.
 
+       1. How long do inlays and onlays typically last?
+      Ans: Inlays and onlays are known for their durability and can last for many years, especially with proper oral hygiene and regular dental check-ups.
+
+
+      2. Are there any dietary restrictions after getting an inlay or onlay?
+
+      Ans: While there are no specific restrictions, it is advisable to avoid biting down on extremely hard foods or objects to prevent damage to the restoration
 
 
 
 
+      Contact our dental office today to schedule a consultation and explore how inlays and onlays can help restore your smile while preserving your natural tooth structure
 
     imageUrl: img/dental-check-up-3845713.jpg
   - heading: Social Committments - giving back to society
