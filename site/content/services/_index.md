@@ -620,12 +620,35 @@ values:
 
       "Experiencing dental discomfort or in need of a tooth extraction? Our expert team is here to help. Contact us at 9043193021 to schedule a consultation and find the relief you need. Our caring professionals will guide you through the process and provide the best care for your dental health. Don't let dental concerns hold you back, reach out today!"
     imageUrl: img/tooth-3492645_1920.jpg
-  - heading: Mouth Ulcers, red & white areas in mouth
-    text: "Mouth ulcers are usually small painful areas inside the mouth. Some
-      people experience recurrent mouth ulcers, which can cause burning
-      sensation, difficulty in eating and subsequently poor health. We are
-      qualified to help you in management of these kinds of mouth, cheek and
-      tongue soreness. "
+  - heading: "SOOTHING SOLUTIONS FOR ORAL DISCOMFORT: TACKLING ULCERS, RED SPOTS,
+      AND WHITE PATCHES"
+    text: >-
+      Mouth ulcers are usually small painful areas inside the mouth. Some people
+      experience  mouth ulcers repeatedly , which can cause burning sensation,
+      difficulty in eating and subsequently poor health. Our dental team of Oral
+      diagnostician and Physician help you in management of these kinds of
+      mouth, cheek and tongue soreness. 
+
+
+      Mouth ulcers and the presence of red or white areas in the mouth can be indicative of various conditions. Here are some common causes of these symptoms:
+
+
+      1. Canker sores: These are small, painful ulcers that can develop on the soft tissues inside the mouth. They are often white or yellow and have a red border. Canker sores are not contagious and can be triggered by stress, certain foods, or minor injuries in the mouth.
+
+
+      2. Oral thrush: This is a fungal infection caused by an overgrowth of Candida yeast in the mouth. It can appear as creamy white lesions on the tongue, inner cheeks, and can be indicative of underlying health condition.
+
+
+      3. Leukoplakia: This condition causes thick, white patches to form on the gums, the insides of the cheeks, or the bottom of the mouth. While usually harmless, it can sometimes be a precursor to cancer, especially if caused by tobacco use.
+
+
+      4. Erythroplakia: This refers to red patches in the mouth that can signal a more serious condition, such as oral cancer. Red patches that do not resolve on their own within a couple of weeks should be evaluated by a dentist or physician.
+
+
+      5. Hand, foot, and mouth disease: This is a viral infection common in young children that can cause red spots or sores to develop in the mouth and on the hands and feet.
+
+
+      It's essential to consult a dentist or a healthcare professional for a proper diagnosis if you notice any unusual changes or persistent symptoms in your mouth. Timely intervention can help identify any underlying issues and ensure appropriate treatment.
     imageUrl: img/mouth_ulcer.jpg
   - heading: Inlays & Onlays
     text: >-2
