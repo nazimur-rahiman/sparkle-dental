@@ -605,9 +605,9 @@ values:
          Stick to soft foods and avoid hard, chewy, or hot foods that could irritate 
          the  extraction site.
 
-          Maintain good oral hygiene, but be gentle around the extraction site to 
-          prevent infection. Your dentist may recommend a saltwater rinse after 24 
-          hours.
+         Maintain good oral hygiene, but be gentle around the extraction site to 
+         prevent infection. Your dentist may recommend a saltwater rinse after 24 
+         hours.
 
       It's essential to follow your dentist's post-extraction instructions carefully. Contact your dentist if you experience severe pain, excessive bleeding, swelling, or any other concerns that might indicate a complication. With proper care, the extraction site should heal within a few weeks.
 
