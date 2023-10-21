@@ -704,7 +704,7 @@ values:
 
       Contact our dental office today to schedule a consultation and explore how inlays and onlays can help restore your smile while preserving your natural tooth structure
 
-    imageUrl: img/inlayonlay-1024x645.jpg
+    imageUrl: img/inlayonlay-1024x645-removebg-preview.png
   - heading: 𝐖𝐈𝐒𝐃𝐎𝐌 𝐓𝐎𝐎𝐓𝐇 𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐈𝐎𝐍
     text: >-
       Wisdom teeth are named as such because they tend to emerge during
@@ -764,5 +764,5 @@ values:
       3. How long will it take to recover?
 
       Ans: In most cases, individuals can return to work or resume their regular activities with one or two days after a wisdom tooth extraction. However, the recovery period may vary depending on the complexity of the extraction, the individual's pain tolerance, and the nature of their work.
-    imageUrl: img/volunteer-2055043_1920.png
+    imageUrl: img/weisheitszahn-op-removebg-preview.png
 ---
