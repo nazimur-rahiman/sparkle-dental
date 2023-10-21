@@ -705,11 +705,64 @@ values:
       Contact our dental office today to schedule a consultation and explore how inlays and onlays can help restore your smile while preserving your natural tooth structure
 
     imageUrl: img/inlayonlay-1024x645.jpg
-  - heading: Social Committments - giving back to society
-    text: >
-      Sparkle dental sees itself as a member of the community and gives back to
-      the community with the goal of a better tomorrows. 
+  - heading: 𝐖𝐈𝐒𝐃𝐎𝐌 𝐓𝐎𝐎𝐓𝐇 𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐈𝐎𝐍
+    text: >-
+      Wisdom teeth are named as such because they tend to emerge during
+      adulthood, when individuals are considered to be older and presumably
+      wiser. 
 
-      We are actively involved in conducting  dental camps and would love to be a part of any community related services
+
+      Typically emerging between 17 and 25 years, wisdom teeth can sometimes remain trapped in the jawbone, leading to impaction. Approximately 70% of the Indian population experiences discomfort related to wisdom tooth issues.
+
+
+      When does the dental/oral surgeon advice wisdom tooth extraction:
+
+
+      1. Impacted Wisdom Teeth: When wisdom teeth do not have enough space to emerge or develop normally, they can become impacted, causing pain, infection, or other dental issues.
+
+
+      2. Pain and Discomfort: Wisdom teeth can lead to significant pain and discomfort, especially when they are impacted, infected, or exerting pressure on neighboring teeth.
+
+
+      3. Tooth Misalignment: Wisdom teeth can sometimes cause misalignment or crowding issues if there is insufficient space in the dental arch.
+
+
+      4. Risk of Infection: The positioning of wisdom teeth can make them challenging to clean properly, increasing the likelihood of tooth decay, gum disease, and infections.
+
+
+      The procedure for wisdom tooth extraction generally involves the following steps:
+
+
+      1. Evaluation and Examination: The dentist or oral surgeon will assess the position and condition of the wisdom teeth using X-rays and a clinical examination to determine the best course of action.
+
+
+      2. Anesthesia Administration: Local anesthesia, will  be used to ensure the patient's comfort during the extraction procedure.
+
+
+      3. Surgical Extraction: The oral surgeon makes  small cut on the covering gums, removes any bone that blocks access to the tooth, and then extracts the tooth. In some cases, the tooth may be split into smaller pieces for easier removal.
+
+
+      4. Suturing and Recovery: After the tooth is removed, the surgical site may be sutured to aid in proper healing. The patient is typically provided with post-operative instructions for managing any discomfort, swelling, and promoting a smooth recovery.
+
+
+      5. Follow-up Care: A follow-up appointment may be scheduled to monitor the healing progress and address any concerns or complications.
+
+
+      FAQs
+
+
+      1. Are there any dietary restrictions after the procedure?
+
+      Ans: Soft foods that require minimal chewing are recommended during the initial recovery period. Patients should avoid hard, crunchy, or sticky foods that may disrupt the healing process.
+
+
+      2. What can happen if I don't remove the  wisdom teeth?
+
+      Ans: Leaving impacted or problematic wisdom teeth untreated can lead to persistent pain, infection, damage to adjacent teeth, and other oral health issues over time.
+
+
+      3. How long will it take to recover?
+
+      Ans: In most cases, individuals can return to work or resume their regular activities with one or two days after a wisdom tooth extraction. However, the recovery period may vary depending on the complexity of the extraction, the individual's pain tolerance, and the nature of their work.
     imageUrl: img/volunteer-2055043_1920.png
 ---
