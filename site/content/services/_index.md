@@ -529,15 +529,6 @@ values:
       8. Oral cancer screenings: Regular oral cancer screenings are important, especially for the elderly population, as the risk of oral cancer increases with age. Early detection can significantly improve treatment outcomes.
 
 
-      It's essential for elderly individuals to maintain good oral hygiene practices, including regular brushing and flossing, along with a well-balanced diet. Consultation with a dentist is crucial to determine the most appropriate treatment options based on individual needs and overall health conditions.
-
-
-
-
-
-
-
-
       If you have an immobile elderly family member in need of home dental care, or emergency dental care, rest assured that we can arrange suitable and practical services to be delivered in the comfort of their own home
 
 
