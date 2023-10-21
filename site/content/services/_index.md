@@ -343,7 +343,7 @@ values:
     imageUrl: img/expressive-senior-woman-posing.jpg
   - heading: "𝐎𝐑𝐓𝐇𝐎𝐃𝐎𝐍𝐓𝐈𝐂 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 - 𝐏𝐄𝐑𝐅𝐄𝐂𝐓𝐈𝐍𝐆
       𝐒𝐌𝐈𝐋𝐄𝐒 "
-    imageUrl: img/atikah-akhtar-hkaylaf1ndw-unsplash.jpg
+    imageUrl: img/diana-polekhina-pbavxzzg8ug-unsplash.jpg
     text: >-
       Orthodontic Treatment Overview: Orthodontic treatment focuses on
       correcting the alignment of teeth and jaws. At Sparkle dental clinic we
