@@ -535,7 +535,7 @@ values:
       If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at 9043193021. We are dedicated to providing you with the support and information you require.
     imageUrl: img/19451.jpg
   - heading: TOOTH EXTRACTION - EXPERT EXTRACTION, COMFORTABLE RECOVERY
-    text: >+
+    text: >-
       We at Sparkle Dental Clinic, believe and work towards keeping your natural
       teeth for lifetime. but sometimes, we are left with no choice but to
       extract. There is nothing to fear during or after extraction. one can
@@ -619,7 +619,6 @@ values:
 
 
       "Experiencing dental discomfort or in need of a tooth extraction? Our expert team is here to help. Contact us at 9043193021 to schedule a consultation and find the relief you need. Our caring professionals will guide you through the process and provide the best care for your dental health. Don't let dental concerns hold you back, reach out today!"
-
     imageUrl: img/tooth-3492645_1920.jpg
   - heading: Mouth Ulcers, red & white areas in mouth
     text: "Mouth ulcers are usually small painful areas inside the mouth. Some
