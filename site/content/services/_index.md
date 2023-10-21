@@ -341,7 +341,8 @@ values:
 
 
     imageUrl: img/expressive-senior-woman-posing.jpg
-  - heading: "PERFECTING SMILES: OUR ORTHODONTIC SERVICES"
+  - heading: "𝐎𝐑𝐓𝐇𝐎𝐃𝐎𝐍𝐓𝐈𝐂 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 - 𝐏𝐄𝐑𝐅𝐄𝐂𝐓𝐈𝐍𝐆
+      𝐒𝐌𝐈𝐋𝐄𝐒 "
     imageUrl: img/atikah-akhtar-hkaylaf1ndw-unsplash.jpg
     text: >-
       Orthodontic Treatment Overview: Orthodontic treatment focuses on
@@ -394,7 +395,8 @@ values:
 
 
       To schedule an appointment with our orthodontist and receive specific details and personalized advice tailored to your orthodontic needs, please contact our office at 9043193021.  Our friendly staff at the best dental clinic will be happy to assist you and answer any questions you may have. Take the first step toward achieving a confident, healthy smile today!
-  - heading: CHILD DENTAL CARE - CARING FOR LITTLE SMILES, ONE STEP AT A TIME
+  - heading: 🐯  🎀  𝒞𝐻𝐼𝐿𝒟 𝒟𝐸𝒩𝒯𝒜𝐿 𝒞𝒜𝑅𝐸 - 𝒞𝒜𝑅𝐼𝒩𝒢 𝐹🍑𝑅
+      𝐿𝐼𝒯𝒯𝐿𝐸 𝒮𝑀𝐼𝐿𝐸𝒮, ❁𝒩𝐸 𝒮𝒯𝐸𝒫 𝒜𝒯 𝒜 𝒯𝐼𝑀𝐸  🎀  🐯
     text: >+
       Healthy teeth and oral hygiene are absolutely necessary to your child’s
       overall health. Teeth help the child eat and talk. Milk teeth are
