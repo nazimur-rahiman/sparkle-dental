@@ -56,8 +56,7 @@ values:
       Just as we prioritize regular maintenance for our vehicles to enhance their longevity, our oral health also demands dedicated attention and routine care. Take the first step towards maintaining your dental well-being by scheduling a visit to the best dental clinic in Tirupur. Feel free to contact us at 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 to secure an appointment and ensure that your teeth and oral tissues receive the highest standard of care available.
 
     imageUrl: img/quang-tri-nguyen-t-iifflk3ku-unsplash.jpg
-  - heading: "𝐎𝐑𝐓𝐇𝐎𝐃𝐎𝐍𝐓𝐈𝐂 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 - 𝐏𝐄𝐑𝐅𝐄𝐂𝐓𝐈𝐍𝐆
-      𝐒𝐌𝐈𝐋𝐄𝐒 "
+  - heading: "𝐎𝐑𝐓𝐇𝐎𝐃𝐎𝐍𝐓𝐈𝐂 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 "
     imageUrl: img/diana-polekhina-pbavxzzg8ug-unsplash.jpg
     text: >-
       Orthodontic Treatment Overview: Orthodontic treatment focuses on
@@ -191,8 +190,7 @@ values:
 
 
     imageUrl: img/dentist-cleaning-child-s-teeth_23-2149195888.jpg
-  - heading: 𝐑𝐎𝐎𝐓 𝐂𝐀𝐍𝐀𝐋 𝐓𝐑𝐄𝐀𝐓𝐌𝐄𝐍𝐓 𝐅𝐎𝐑 𝐀𝐋𝐋 𝐀𝐆𝐄𝐒
-      -  𝐏𝐀𝐈𝐍 𝐑𝐄𝐋𝐈𝐄𝐅 𝐖𝐈𝐓𝐇 𝐓𝐎𝐎𝐓𝐇 𝐏𝐑𝐄𝐒𝐄𝐑𝐕𝐀𝐓𝐈𝐎𝐍
+  - heading: "𝐑𝐎𝐎𝐓 𝐂𝐀𝐍𝐀𝐋 𝐓𝐑𝐄𝐀𝐓𝐌𝐄𝐍𝐓 𝐅𝐎𝐑 𝐀𝐋𝐋 𝐀𝐆𝐄𝐒 "
     text: >-
       Root canal treatment is a dental procedure designed to treat an infected
       or inflamed tooth. It relives pain and prevents the need for extraction. 
@@ -665,8 +663,7 @@ values:
 
 
     imageUrl: img/full-set-acrylic-denture-isolated-white-background-removebg-preview.png
-  - heading: 𝗧𝗢𝗢𝗧𝗛 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗜𝗢𝗡 - 𝗘𝗫𝗣𝗘𝗥𝗧 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗜𝗢𝗡,
-      𝗖𝗢𝗠𝗙𝗢𝗥𝗧𝗔𝗕𝗟𝗘 𝗥𝗘𝗖𝗢𝗩𝗘𝗥𝗬
+  - heading: "𝗧𝗢𝗢𝗧𝗛 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗜𝗢𝗡 "
     text: >-
       We at Sparkle Dental Clinic, believe and work towards keeping your natural
       teeth for lifetime. but sometimes, we are left with no choice but to
@@ -967,8 +964,7 @@ values:
 
 
     imageUrl: img/3d-skeleton-headache-removebg-preview.png
-  - heading: "𝐔𝐋𝐂𝐄𝐑𝐒, 𝐑𝐄𝐃 𝐒𝐏𝐎𝐓𝐒, 𝐀𝐍𝐃 𝐖𝐇𝐈𝐓𝐄 𝐏𝐀𝐓𝐂𝐇𝐄𝐒:
-      𝐒𝐎𝐎𝐓𝐇𝐈𝐍𝐆 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 𝐅𝐎𝐑 𝐎𝐑𝐀𝐋 𝐃𝐈𝐒𝐂𝐎𝐌𝐅𝐎𝐑𝐓"
+  - heading: 𝐔𝐋𝐂𝐄𝐑𝐒, 𝐑𝐄𝐃 𝐒𝐏𝐎𝐓𝐒, 𝐀𝐍𝐃 𝐖𝐇𝐈𝐓𝐄 𝐏𝐀𝐓𝐂𝐇𝐄𝐒
     text: >-
       Mouth ulcers are usually small painful areas inside the mouth. Some people
       experience  mouth ulcers repeatedly , which can cause burning sensation,
