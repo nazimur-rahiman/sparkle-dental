@@ -654,10 +654,30 @@ values:
 
       It's essential to consult a dentist or a healthcare professional for a proper diagnosis if you notice any unusual changes or persistent symptoms in your mouth. Timely intervention can help identify any underlying issues and ensure appropriate treatment.
     imageUrl: img/mouth_ulcer.jpg
-  - heading: Inlays & Onlays
-    text: >-2
-       Inlays are restorations from porcelain or composite resin material matching the color of the tooth, and provide almost invisible dental restoration while repairing the chewing surface. Dental inlays are generally more durable than regular fillings.
-      An onlay is a method used to repair a tooth that has more extensive damage affecting a greater surface of the tooth
+  - heading: 𝐈𝐍𝐋𝐀𝐘𝐒 𝐀𝐍𝐃 𝐎𝐍𝐋𝐀𝐘𝐒 - 𝐑𝐄𝐒𝐓𝐎𝐑𝐈𝐍𝐆 𝐒𝐌𝐈𝐋𝐄𝐒,
+      𝐏𝐑𝐄𝐒𝐄𝐑𝐕𝐈𝐍𝐆 𝐒𝐓𝐑𝐄𝐍𝐆𝐓𝐇
+    text: >+2
+       Inlays and onlays are advanced restorations that match the color of tooth and preserve thetooth structure. Dental inlays are generally more durable than regular fillings. 
+
+      Procedure
+
+
+      1. Tooth Preparation: The affected tooth is prepared by removing any decay or damaged areas. The dentist will carefully shape the tooth to create space for the inlay or onlay. This step may involve the use of local anesthesia to ensure the patient's comfort.
+
+
+      2. Impressions: An impression of the prepared tooth is taken to create a custom-fit inlay or onlay. This impression is sent to a dental laboratory where the restoration will be fabricated.
+
+
+      3. Temporary Restoration: In some cases, a temporary restoration may be placed on the prepared tooth to protect it while the final inlay or onlay is being created.
+
+
+      4. Placement of the Final Restoration: Once the custom inlay or onlay is ready, the temporary restoration, if used, is removed, and the permanent restoration is carefully placed and bonded to the tooth using dental cement. The dentist will ensure that the fit is precise and that the restoration seamlessly blends with the surrounding teeth.
+
+
+
+
+
+
     imageUrl: img/dental-check-up-3845713.jpg
   - heading: Social Committments - giving back to society
     text: >
