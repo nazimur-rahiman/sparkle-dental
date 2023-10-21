@@ -473,16 +473,12 @@ values:
 
 
     imageUrl: img/dentist-cleaning-child-s-teeth_23-2149195888.jpg
-  - heading: Inlays & Onlays
-    text: >-2
-       Inlays are restorations from porcelain or composite resin material matching the color of the tooth, and provide almost invisible dental restoration while repairing the chewing surface. Dental inlays are generally more durable than regular fillings.
-      An onlay is a method used to repair a tooth that has more extensive damage affecting a greater surface of the tooth
-    imageUrl: img/dental-check-up-3845713.jpg
-  - heading: Geriatric dentistry - Caring for Elderly
-    text: >+
+  - heading: GERIATRIC DENTISTRY - CARING FOR ELDERLY
+    text: >-
       Mouth is referred to as a mirror of overall health. Eating nutritious
       wholesome meal becomes more important as we age. Healthy teeth and mouth
-      are needed   to chew food and maintain a good quality of life. 
+      are needed even in old age  to chew food and maintain a good quality of
+      life. 
 
 
       As individuals age, they may encounter specific dental challenges that require tailored care and attention. At Sparkle Dental Clinic, we prioritize the unique needs of our senior patients, providing comprehensive and compassionate dental services to ensure their continued oral well-being.
@@ -493,39 +489,59 @@ values:
 
       1. Age-related dental conditions such as tooth loss and gum disease
 
+
       2. Dry mouth or decreased salivary flow leading to an increased risk of dental decay
+
 
       3. Diminished dexterity, making oral hygiene maintenance more challenging
 
+
       4. Dental conditions associated with underlying health issues like diabetes or cardiovascular disease
+
 
       5. Management of pre-existing dental restorations and prosthetics requiring upkeep or replacement
 
 
-      Procedures in Geriatric Dentistry:
+      Here are some common dental treatment options and considerations for the elderly:
 
 
-      1. Comprehensive oral examinations and tailored treatment planning
-
-      2. Proactive management of gum disease and tooth decay
-
-      3. Restorative treatments including dental implants, bridges, and dentures
-
-      4. Periodontal therapies to preserve gum health and prevent tooth loss
-
-      5. Oral health education and assistance in maintaining effective oral hygiene practices
-
-      6. Collaborative care with other healthcare providers to ensure holistic well-being
-
-      7. Sensitive and empathetic approach to dental care, addressing any anxieties or specific needs of our senior patients.
+      1. Regular dental check-ups and cleanings: Regular visits to the dentist are crucial for maintaining good oral health. These appointments allow the dentist to identify any potential issues early and provide appropriate treatment.
 
 
-      If you have an immobile elderly family member in need of home care, rest assured that we can arrange suitable and practical services to be delivered in the comfort of their own home
+      2. Dentures: For those with multiple missing teeth, dentures can be an effective option for restoring the appearance and function of their teeth. Full or partial dentures can help improve chewing ability and speech.
+
+
+      3. Dental implants: In cases where a single tooth or multiple teeth are missing, dental implants can be a more permanent solution compared to dentures. Implants can provide a stable and long-lasting foundation for replacement teeth.
+
+
+      4. Gum disease treatment: Periodontal disease is a common issue among the elderly. Scaling and root planing, antibiotic treatments, and gum surgery may be necessary to address gum disease and prevent further complications.
+
+
+      5. Cavity treatment and fillings: Even in old age, tooth decay can still occur. Fillings and other restorative treatments can help preserve the remaining tooth structure and prevent further decay.
+
+
+      6. Root canal therapy: If an elderly individual is experiencing severe tooth pain or an infection in the tooth pulp, root canal therapy can be a viable option to save the affected tooth and alleviate discomfort.
+
+
+      7. Orthodontic treatment: In some cases, orthodontic treatments such as braces or aligners may be recommended to address misaligned teeth or jaw issues that can impact chewing and overall oral health.
+
+
+      8. Oral cancer screenings: Regular oral cancer screenings are important, especially for the elderly population, as the risk of oral cancer increases with age. Early detection can significantly improve treatment outcomes.
+
+
+      It's essential for elderly individuals to maintain good oral hygiene practices, including regular brushing and flossing, along with a well-balanced diet. Consultation with a dentist is crucial to determine the most appropriate treatment options based on individual needs and overall health conditions.
+
+
+
+
+
+
+
+
+      If you have an immobile elderly family member in need of home dental care, or emergency dental care, rest assured that we can arrange suitable and practical services to be delivered in the comfort of their own home
 
 
       If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at 9043193021. We are dedicated to providing you with the support and information you require.
-
-
     imageUrl: img/19451.jpg
   - heading: Tooth extraction
     text: "We believe and work towards keeping your natural teeth for lifetime. but
@@ -540,6 +556,11 @@ values:
       qualified to help you in management of these kinds of mouth, cheek and
       tongue soreness. "
     imageUrl: img/mouth_ulcer.jpg
+  - heading: Inlays & Onlays
+    text: >-2
+       Inlays are restorations from porcelain or composite resin material matching the color of the tooth, and provide almost invisible dental restoration while repairing the chewing surface. Dental inlays are generally more durable than regular fillings.
+      An onlay is a method used to repair a tooth that has more extensive damage affecting a greater surface of the tooth
+    imageUrl: img/dental-check-up-3845713.jpg
   - heading: Social Committments - giving back to society
     text: >
       Sparkle dental sees itself as a member of the community and gives back to
