@@ -403,13 +403,13 @@ values:
       important and  need to last till the permanent are ready to erupt.
 
 
-      Pediatric dentistry is a specialized branch that focuses on the dental needs of children, from infancy through adolescence. 
+      Kids dentistry focuses on the dental needs of children, from infancy through adolescence. 
 
 
       At our Sparkle Dental Clinic, we understand the unique requirements of our young patients, offering a warm and welcoming environment that aims to create a positive and nurturing dental experience for children of all ages.
 
 
-      Indications for Pediatric Dentistry:
+      Indications for Pediatric Dentistry/dentistry for children:
 
 
       1. Early childhood dental caries and preventive care
