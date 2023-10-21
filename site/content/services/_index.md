@@ -340,7 +340,7 @@ values:
 
 
     imageUrl: img/expressive-senior-woman-posing.jpg
-  - heading: "Perfecting Smiles: Our Orthodontic Services"
+  - heading: "PERFECTING SMILES: OUR ORTHODONTIC SERVICES"
     imageUrl: img/atikah-akhtar-hkaylaf1ndw-unsplash.jpg
     text: >-
       Orthodontic Treatment Overview: Orthodontic treatment focuses on
@@ -367,7 +367,32 @@ values:
       Maintaining Oral Hygiene: Proper oral hygiene is crucial during orthodontic treatment. Patients should pay extra attention to cleaning their teeth and braces or aligners to prevent plaque buildup and the development of cavities.
 
 
-      Schedule an appoint with our Orthodontist for specific details and advice tailored to your needs
+      Types of Orthodontics available:
+
+
+      Ceramic braces: Made of a ceramic material, looks white and blends in with the natural tooth color, making them less noticeable than metal braces.
+
+
+      Lingual braces: These are placed on the backside of the teeth, making them virtually invisible from the outside.
+
+
+      Clear aligners: These are a series of custom-made, transparent, removable trays that gradually shift teeth into the desired position. Popular brands include Invisalign, Precisalign
+
+
+      FAQs
+
+
+      1. Are there any age limitations for orthodontic treatment?
+
+      Ans: Orthodontic treatment can be performed at any age. While it is commonly associated with adolescents, an increasing number of adults are seeking orthodontic treatment to improve their dental health and enhance their smile.
+
+
+      2. Is orthodontic treatment painful?
+
+      Ans: While some discomfort can be expected during certain stages of treatment, orthodontic procedures are typically not extremely painful. Patients may experience mild soreness or discomfort for a few days after adjustments or initial placement of orthodontic appliances.
+
+
+      To schedule an appointment with our orthodontist and receive specific details and personalized advice tailored to your orthodontic needs, please contact our office at 9043193021.  Our friendly staff at the best dental clinic will be happy to assist you and answer any questions you may have. Take the first step toward achieving a confident, healthy smile today!
   - heading: Child Dental Care - Caring for Little Smiles, One Step at a Time
     text: >+
       Healthy teeth and oral hygiene are absolutely necessary to your child’s
