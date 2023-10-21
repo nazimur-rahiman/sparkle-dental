@@ -534,7 +534,7 @@ values:
 
       If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at 9043193021. We are dedicated to providing you with the support and information you require.
     imageUrl: img/19451.jpg
-  - heading: TOOTH EXTRACTION
+  - heading: TOOTH EXTRACTION - EXPERT EXTRACTION, COMFORTABLE RECOVERY
     text: >+
       We at Sparkle Dental Clinic, believe and work towards keeping your natural
       teeth for lifetime. but sometimes, we are left with no choice but to
