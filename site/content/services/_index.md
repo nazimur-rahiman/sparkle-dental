@@ -1058,4 +1058,56 @@ values:
 
       Our goal is to create a smile that complements your facial features seamlessly. Our modern dentistry concepts aims to ensure that your new smile appears natural and enhances your overall appearance. Sounds interesting and want to know more. Call 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 for a Digital Smile Design consultation at a nominal cost.
     imageUrl: img/digital-smile-design1-img-removebg-preview.png
+  - heading: 𝐁𝐑𝐈𝐃𝐆𝐄𝐒 𝐀𝐍𝐃 𝐅𝐈𝐗𝐄𝐃 𝐏𝐀𝐑𝐓𝐈𝐀𝐋 𝐃𝐄𝐍𝐓𝐔𝐑𝐄𝐒
+    text: >
+      Bridges and fixed partial dentures are dental prosthetic devices used to
+      replace one or more missing teeth. They are designed to "bridge" the gap
+      between teeth, providing a natural-looking, functional, and stable
+      solution for restoring the appearance and functionality of a complete
+      smile.
+
+
+
+      These dental devices are commonly used in the following cases:
+
+
+      1. To replace one or more missing teeth
+
+      2. To prevent the shifting of adjacent teeth
+
+      3. To restore proper bite alignment and chewing function
+
+      4. To enhance overall oral aesthetics and improve self-confidence
+
+
+      Procedure for Bridges and Fixed Partial Dentures:
+
+
+      1. Initial consultation and examination to assess the condition of the teeth and gums.
+
+      2. Preparation of the abutment teeth, which involves reshaping them to accommodate the dental crowns that will support the bridge.
+
+      3. Taking impressions of the prepared teeth and the surrounding dental structures to create a custom-fit bridge or fixed partial denture.
+
+      4. Placement of a temporary restoration while the final bridge or fixed partial denture is being fabricated.
+
+      5. Fitting and cementing the custom-made bridge or fixed partial denture during a subsequent appointment.
+
+
+
+      【﻿ＦＡＱＳ】
+
+
+      1. How long do bridges and fixed partial dentures last?
+
+      Ans: With proper care and regular dental check-ups, bridges and fixed partial dentures can last for many years, typically between 5 to 15 years or longer, depending on individual oral hygiene practices and habits.
+
+
+      2. Can bridges and fixed partial dentures be replaced if they become damaged or worn over time?
+
+      Ans: Yes, bridges and fixed partial dentures can be replaced by a dental professional to restore oral function and aesthetics. Regular dental visits can help monitor the condition of the prosthetic and ensure timely replacements if necessary
+
+
+      Regular dental check-ups and adherence to good oral hygiene practices are crucial to maintaining the integrity and durability of bridges and fixed partial dentures. It's essential to consult with a qualified dentist to determine the most suitable option based on your individual dental needs and to ensure proper maintenance for the longevity and functionality of the dental prosthetic.  Call  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 for a expert opinion.
+    imageUrl: img/ltzfdentcarezirconiaclassic1x-removebg-preview.png
 ---
