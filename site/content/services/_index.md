@@ -1091,7 +1091,7 @@ values:
 
 
 
-    imageUrl: img/expressive-senior-woman-posing.jpg
+    imageUrl: img/expressive-senior-woman-posing-removebg-preview.png
   - heading: 𝟑𝐃 𝐒𝐌𝐈𝐋𝐄 𝐃𝐄𝐒𝐈𝐆𝐍𝐈𝐍𝐆 - 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐒𝐌𝐈𝐋𝐄
       𝐃𝐄𝐒𝐈𝐆𝐍𝐈𝐍𝐆
     text: >-
