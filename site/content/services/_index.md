@@ -532,7 +532,16 @@ values:
       8. Oral cancer screenings: Regular oral cancer screenings are important, especially for the elderly population, as the risk of oral cancer increases with age. Early detection can significantly improve treatment outcomes.
 
 
-      If you have an immobile elderly family member in need of home dental care, or emergency dental care, rest assured that we can arrange suitable and practical services to be delivered in the comfort of their own home
+      【﻿ＦＡＱＳ】
+
+      1. Will you be able to come home for ental consultation?
+
+      Ans: Yes, If you have an immobile elderly family member in need of home dental care, or emergency dental care, rest assured that we can arrange suitable and practical services to be delivered in the comfort of their own home
+
+
+      2. Can older adults get dental implants or dentures?
+
+      Ans: Yes, dental implants and dentures are viable tooth replacement options for older adults, providing improved oral function and restoring confidence in their smiles.
 
 
       If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏. We are dedicated to providing you with the support and information you require.
@@ -543,7 +552,9 @@ values:
       We at Sparkle Dental Clinic, believe and work towards keeping your natural
       teeth for lifetime. but sometimes, we are left with no choice but to
       extract. There is nothing to fear during or after extraction. one can
-      carry about their day to day activities without any hindrance.  
+      carry about their day to day activities without any hindrance.  Tooth
+      extraction is a common procedure typically performed by a dentist or
+      dental surgeon. 
 
 
       Here are some common reasons for tooth extraction:
@@ -612,13 +623,23 @@ values:
          prevent infection. Your dentist may recommend a saltwater rinse after 24 
          hours.
 
-      It's essential to follow your dentist's post-extraction instructions carefully. Contact your dentist if you experience severe pain, excessive bleeding, swelling, or any other concerns that might indicate a complication. With proper care, the extraction site should heal within a few weeks.
+         It's essential to follow your dentist's post-extraction instructions carefully. 
+        Contact your dentist if you experience severe pain, excessive bleeding, 
+        swelling, or any other concerns that might indicate a complication. With 
+        proper care, the extraction site should heal within a few weeks.
+
+      【﻿ＦＡＱＳ】
 
 
-      Tooth extraction is a common procedure typically performed by a dentist or dental surgeon. After the extraction, the dentist may provide instructions for post-operative care, which may include pain management and recommendations for proper healing and recovery.
+      1. Why might I need a tooth extraction?
+
+      Ans: Tooth extraction may be necessary for various reasons, including severe tooth decay, advanced gum disease, tooth overcrowding, or in preparation for orthodontic treatment.
 
 
-      In some cases, the dentist may also discuss options for tooth replacement, such as dental implants, bridges, or dentures, to restore the functionality and appearance of the missing tooth.
+      2. What precautions should I take after a tooth extraction?
+
+      Ans: Following the dentist's instructions is crucial. This typically includes avoiding hard or sticky foods, practicing gentle oral hygiene, and taking any prescribed pain medications or antibiotics as directed.
+
 
 
       "Experiencing dental discomfort or in need of a tooth extraction? Our expert team is here to help. Contact us at  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 to schedule a consultation and find the relief you need. Our caring professionals will guide you through the process and provide the best care for your dental health. Don't let dental concerns hold you back, reach out today!"
@@ -651,7 +672,7 @@ values:
       5. Hand, foot, and mouth disease: This is a viral infection common in young children that can cause red spots or sores to develop in the mouth and on the hands and feet.
 
 
-      FAQS
+      【﻿ＦＡＱＳ】
 
       1. Are oral mucosal lesions treatable?
 
@@ -703,7 +724,7 @@ values:
       4. Placement of the Final Restoration: Once the custom inlay or onlay is ready, the temporary restoration, if used, is removed, and the permanent restoration is carefully placed and bonded to the tooth using dental cement. The dentist will ensure that the fit is precise and that the restoration seamlessly blends with the surrounding teeth.
 
 
-      FAQS
+      【﻿ＦＡＱＳ】
        1. How long do inlays and onlays typically last?
       Ans: Inlays and onlays are known for their durability and can last for many years, especially with proper oral hygiene and regular dental check-ups.
 
@@ -761,8 +782,7 @@ values:
       5. Follow-up Care: A follow-up appointment may be scheduled to monitor the healing progress and address any concerns or complications.
 
 
-      FAQs
-
+      【﻿ＦＡＱＳ】
 
       1. Are there any dietary restrictions after the procedure?
 
@@ -781,8 +801,7 @@ values:
 
       Experiencing Wisdom Tooth Discomfort? Consult Our Expert Dentists for Personalized Assessment and Relief. Schedule Your Appointment Today at 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏.
     imageUrl: img/weisheitszahn-op-removebg-preview.png
-  - heading: "𝐑𝐞𝐬𝐭𝐨𝐫𝐢𝐧𝐠 𝐉𝐚𝐰 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧: 𝐑𝐞𝐥𝐢𝐞𝐯𝐢𝐧𝐠
-      𝐏𝐚𝐢𝐧, 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐚𝐭𝐢𝐧𝐠 𝐅𝐮𝐥𝐥 𝐌𝐨𝐮𝐭𝐡 𝐌𝐨𝐯𝐞𝐦𝐞𝐧𝐭"
+  - heading: 𝐉𝐀𝐖 𝐉𝐎𝐈𝐍𝐓 𝐏𝐀𝐈𝐍
     text: >+
       Temporomandibular joint/jaw joint disorders can cause lot of discomfort
       and impact the movement of the jaw. When seeking treatment for TMJ
@@ -832,7 +851,7 @@ values:
       A comprehensive approach that combines different treatment modalities may be necessary for effective management of TMJ pain. It is crucial for individuals experiencing TMJ pain to consult with a dental professional  to determine the most suitable treatment plan based on their specific symptoms and overall health. An advanced radiographic imaging may be necessary.
 
 
-      FAQs
+      【﻿ＦＡＱＳ】
 
 
       1. I am getting continuous headaches, could be be due to jaw joint problem?
@@ -854,7 +873,7 @@ values:
 
 
     imageUrl: img/3d-skeleton-headache-removebg-preview.png
-  - heading: "𝐓𝐨𝐨𝐭𝐡 𝐖𝐡𝐢𝐭𝐞𝐧𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 "
+  - heading: 𝐓𝐎𝐎𝐓𝐇 𝐖𝐇𝐈𝐓𝐄𝐍𝐈𝐍𝐆 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒
     text: >+
       Brighten your smile and boost your confidence with our professional teeth
       whitening solutions. Our experienced dental doctor offers safe and
@@ -877,7 +896,7 @@ values:
       At Sparkle Dental Clinic, we provide at-Home Whitening, in the comfort of your home. Customized trays are given. These trays are then filled with a lower concentration of the whitening  agent and worn for a specified period, usually a couple of hours each day or overnight, for several weeks to achieve the desired level of whitening.
 
 
-      FAQs
+      【﻿ＦＡＱＳ】
 
 
       1. Is tooth whitening safe?
@@ -923,7 +942,7 @@ values:
       The complete denture procedure typically involves an initial consultation and evaluation to determine the best treatment plan. This is followed by precise measurements and impressions of the gums and jaw, ensuring a custom-fit design. The dentures are then meticulously crafted to match the patient's unique oral structure, providing a seamless and comfortable fit. Regular follow-ups are recommended to monitor the denture's performance and ensure optimal functionality and comfort.
 
 
-      FAQs
+      【﻿ＦＡＱＳ】
 
 
       1. How long does it take to get used to wearing complete dentures?
@@ -995,7 +1014,7 @@ values:
       5. Removal of the temporary crown and placement of the permanent crown during a subsequent appointment.
 
 
-      FAQs
+      【﻿ＦＡＱＳ】
 
       1. Are dental crowns noticeable or distinguishable from natural teeth?
 
