@@ -35,7 +35,6 @@ values:
       By undergoing regular comprehensive dental check-ups, individuals can ensure that any potential dental issues are identified and addressed promptly, contributing to their overall health and well-being
 
 
-
       【﻿ＦＡＱＳ】
 
 
@@ -57,8 +56,8 @@ values:
       Just as we prioritize regular maintenance for our vehicles to enhance their longevity, our oral health also demands dedicated attention and routine care. Take the first step towards maintaining your dental well-being by scheduling a visit to the best dental clinic in Tirupur. Feel free to contact us at 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 to secure an appointment and ensure that your teeth and oral tissues receive the highest standard of care available.
 
     imageUrl: img/quang-tri-nguyen-t-iifflk3ku-unsplash.jpg
-  - heading: "COSMETIC DENTISTRY - A NEW SMILE AWAITS: TRANSFORMATIVE VENEERS AND
-      LAMINATES"
+  - heading: 𝐂𝐎𝐒𝐌𝐄𝐓𝐈𝐂 𝐃𝐄𝐍𝐓𝐈𝐒𝐓𝐑𝐘 -  𝐓𝐑𝐀𝐍𝐒𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐕𝐄
+      𝐕𝐄𝐍𝐄𝐄𝐑𝐒 𝐀𝐍𝐃 𝐋𝐀𝐌𝐈𝐍𝐀𝐓𝐄𝐒
     text: >+
       Dental veneers/ Laminates are thin, custom-made shells crafted from
       tooth-colored materials designed to cover the front surface of teeth.
@@ -110,7 +109,7 @@ values:
 
 
 
-      FAQs
+      【﻿ＦＡＱＳ】
 
 
       1. How long do dental veneers typically last?
@@ -124,12 +123,13 @@ values:
 
 
 
-      Get ready for a brand-new smile with our special veneers and laminates. Our experienced  dentist at Sparkle Dental Clinic can make your teeth look better, feel great, and give you the confidence to smile more.  Call us on 9043193021 to fix an appointment  to experience the joy of a beautiful smile tailored just for you.
+      Get ready for a brand-new smile with our special veneers and laminates. Our experienced  dentist at Sparkle Dental Clinic can make your teeth look better, feel great, and give you the confidence to smile more.  Call us on 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 to fix an appointment  to experience the joy of a beautiful smile tailored just for you.
 
 
 
     imageUrl: img/ozkan-guner-5pm7ed-fsnm-unsplash.jpg
-  - heading: DENTAL IMPLANTS - THE SOLUTION TO MISSING TEETH
+  - heading: 𝐃𝐄𝐍𝐓𝐀𝐋 𝐈𝐌𝐏𝐋𝐀𝐍𝐓𝐒 - 𝐓𝐇𝐄 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍 𝐓𝐎
+      𝐌𝐈𝐒𝐒𝐈𝐍𝐆 𝐓𝐄𝐄𝐓𝐇
     text: >-
       Dental implants are replacements for missing teeth. They look and function
       like natural teeth. They provide a strong foundation for fixed or
@@ -197,7 +197,8 @@ values:
 
       Dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle dental implant clinic to discover how dental implants can revitalize your smile and oral health.
     imageUrl: img/dental_implants_600.jpg
-  - heading: ROOT CANAL TREATMENT -  PAIN RELIEF WITH TOOTH PRESERVATION FOR ALL AGES
+  - heading: 𝐑𝐎𝐎𝐓 𝐂𝐀𝐍𝐀𝐋 𝐓𝐑𝐄𝐀𝐓𝐌𝐄𝐍𝐓 𝐅𝐎𝐑 𝐀𝐋𝐋 𝐀𝐆𝐄𝐒
+      -  𝐏𝐀𝐈𝐍 𝐑𝐄𝐋𝐈𝐄𝐅 𝐖𝐈𝐓𝐇 𝐓𝐎𝐎𝐓𝐇 𝐏𝐑𝐄𝐒𝐄𝐑𝐕𝐀𝐓𝐈𝐎𝐍
     text: >-
       Root canal treatment is a dental procedure designed to treat an infected
       or inflamed tooth. It relives pain and prevents the need for extraction. 
@@ -266,7 +267,8 @@ values:
 
       If you still have any doubts, the dental clinic near me can assist you. Reach out to schedule a consultation and have all your dental concerns addressed with professional care and guidance. Reach out to us at 9043193021
     imageUrl: img/picture4.png
-  - heading: "FULL MOUTH REHABILITATION FOR LASTING CONFIDENCE "
+  - heading: 𝐅𝐔𝐋𝐋 𝐌𝐎𝐔𝐓𝐇 𝐑𝐄𝐇𝐀𝐁𝐈𝐋𝐈𝐓𝐀𝐓𝐈𝐎𝐍 𝐅𝐎𝐑 𝐋𝐀𝐒𝐓𝐈𝐍𝐆
+      𝐂𝐎𝐍𝐅𝐈𝐃𝐄𝐍𝐂𝐄
     text: >+
       Full mouth rehabilitation, also known as full mouth reconstruction, is a
       comprehensive dental treatment that aims to address extensive dental
