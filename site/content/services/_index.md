@@ -177,7 +177,7 @@ values:
       6. Follow-up Care: Patients are provided with post-operative care instructions and scheduled for regular follow-up appointments to monitor the healing process and ensure the long-term success of the dental implant.
 
 
-      FAQS
+      【﻿ＦＡＱＳ】
 
 
       1. What is age limit for receiving dental implants?
@@ -247,7 +247,7 @@ values:
       endodontists recommend regular follow-up appointments are recommended to monitor the healing process and ensure the long-term success of the root canal treatment.
 
 
-      FAQs
+      【﻿ＦＡＱＳ】
 
 
       1. is Root Canal Treatment/RCT painful?
@@ -336,6 +336,19 @@ values:
       Regular follow-up appointments and maintenance to ensure long-term success and oral health.
 
 
+      【﻿ＦＡＱＳ】
+
+
+      1. Are there any risks associated with full mouth rehabilitation?
+
+      Ans: While full mouth rehabilitation is generally safe, some risks may include temporary discomfort, post-treatment sensitivity, or the need for additional adjustments or revisions during the process.
+
+
+      2. How long does full mouth rehabilitation take to complete?
+
+      Ans: The duration of full mouth rehabilitation varies depending on the complexity of the case and the specific treatments involved. It can range from several months to over a year, depending on individual treatment plans.
+
+
       If you have any further questions or concerns, please do not hesitate to reach out to Sparkle Dental Clinic, at  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏. Our prosthodontist, periodontist and endodontist team are more than happy to assist you with any inquiries you may have.
 
 
@@ -381,7 +394,7 @@ values:
       Clear aligners: These are a series of custom-made, transparent, removable trays that gradually shift teeth into the desired position. Popular brands include Invisalign, Precisalign
 
 
-      FAQs
+      【﻿ＦＡＱＳ】
 
 
       1. Are there any age limitations for orthodontic treatment?
@@ -450,7 +463,7 @@ values:
 
 
 
-      FAQs
+      【﻿ＦＡＱＳ】
 
 
       1. When should my child first visit the dentist?
