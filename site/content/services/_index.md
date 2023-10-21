@@ -1,8 +1,9 @@
 ---
-title: Dental Healthcare Services
+title: "𝐷𝐸𝑁𝑇𝐴𝐿 𝐻𝐸𝐴𝐿𝑇𝐻𝐶𝐴𝑅𝐸 𝑆𝐸𝑅𝑉𝐼𝐶𝐸𝑆 "
 image: img/pexels-karolina-grabowska-6627536.jpg
 values:
-  - heading: COMPREHENSIVE FAMILY AND CHILD DENTAL CHECK-UP WITH ADVANCED DIGITAL X-RAY
+  - heading: 𝐅𝐀𝐌𝐈𝐋𝐘 𝐀𝐍𝐃 𝐂𝐇𝐈𝐋𝐃 𝐃𝐄𝐍𝐓𝐀𝐋 𝐂𝐇𝐄𝐂𝐊-𝐔𝐏 𝐖𝐈𝐓𝐇
+      𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐗-𝐑𝐀𝐘
     text: >+
       Receive a comprehensive dental examination of your entire family,
       including specialized child dental care, at Sparkle Dental Clinic. Our
@@ -35,7 +36,7 @@ values:
 
 
 
-      FAQS
+      【﻿ＦＡＱＳ】
 
 
       1. How often should I undergo a comprehensive dental check-up with X-rays?
@@ -53,9 +54,7 @@ values:
       Ans: Regular dental check-ups are crucial for early detection and prevention of dental problems, ensuring timely treatment and minimizing the risk of more severe issues. 
 
 
-      Just as we prioritize regular maintenance for our vehicles to enhance their longevity, our oral health also demands dedicated attention and routine care. Take the first step towards maintaining your dental well-being by scheduling a visit to the best dental clinic in Tirupur. Feel free to contact us at 9043193021 to secure an appointment and ensure that your teeth and oral tissues receive the highest standard of care available.
-
-
+      Just as we prioritize regular maintenance for our vehicles to enhance their longevity, our oral health also demands dedicated attention and routine care. Take the first step towards maintaining your dental well-being by scheduling a visit to the best dental clinic in Tirupur. Feel free to contact us at 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 to secure an appointment and ensure that your teeth and oral tissues receive the highest standard of care available.
 
     imageUrl: img/quang-tri-nguyen-t-iifflk3ku-unsplash.jpg
   - heading: "COSMETIC DENTISTRY - A NEW SMILE AWAITS: TRANSFORMATIVE VENEERS AND
