@@ -195,7 +195,7 @@ values:
       Ans: Dental implants are a durable investment in your  well-being for the long run.  Initial cost of dental implants may seem higher than other tooth replacement options, they benefit you in long run.
 
 
-      Dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle dental implant clinic to discover how dental implants can revitalize your smile and oral health.
+      Dental implants can significantly enhance your quality of life, restoring the ability to smile with confidence. Experience the transformation today - schedule a consultation with Sparkle Dental Implant Clinic to discover how dental implants can revitalize your smile and oral health.
     imageUrl: img/dental_implants_600.jpg
   - heading: 𝐑𝐎𝐎𝐓 𝐂𝐀𝐍𝐀𝐋 𝐓𝐑𝐄𝐀𝐓𝐌𝐄𝐍𝐓 𝐅𝐎𝐑 𝐀𝐋𝐋 𝐀𝐆𝐄𝐒
       -  𝐏𝐀𝐈𝐍 𝐑𝐄𝐋𝐈𝐄𝐅 𝐖𝐈𝐓𝐇 𝐓𝐎𝐎𝐓𝐇 𝐏𝐑𝐄𝐒𝐄𝐑𝐕𝐀𝐓𝐈𝐎𝐍
@@ -265,7 +265,7 @@ values:
       Ans: Certainly, multiple visit root canal treatment is also available at Sparkle Dental Clinic. Our dedicated team of dental professionals customizes treatment plans to accommodate varying dental needs
 
 
-      If you still have any doubts, the dental clinic near me can assist you. Reach out to schedule a consultation and have all your dental concerns addressed with professional care and guidance. Reach out to us at 9043193021
+      If you still have any doubts, the dental clinic near me can assist you. Reach out to schedule a consultation and have all your dental concerns addressed with professional care and guidance. Reach out to us at  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏
     imageUrl: img/picture4.png
   - heading: 𝐅𝐔𝐋𝐋 𝐌𝐎𝐔𝐓𝐇 𝐑𝐄𝐇𝐀𝐁𝐈𝐋𝐈𝐓𝐀𝐓𝐈𝐎𝐍 𝐅𝐎𝐑 𝐋𝐀𝐒𝐓𝐈𝐍𝐆
       𝐂𝐎𝐍𝐅𝐈𝐃𝐄𝐍𝐂𝐄
@@ -336,7 +336,7 @@ values:
       Regular follow-up appointments and maintenance to ensure long-term success and oral health.
 
 
-      If you have any further questions or concerns, please do not hesitate to reach out to Sparkle Dental Clinic, at 9043190431. Our prosthodontist, periodontist and endodontist team are more than happy to assist you with any inquiries you may have.
+      If you have any further questions or concerns, please do not hesitate to reach out to Sparkle Dental Clinic, at  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏. Our prosthodontist, periodontist and endodontist team are more than happy to assist you with any inquiries you may have.
 
 
 
@@ -394,7 +394,7 @@ values:
       Ans: While some discomfort can be expected during certain stages of treatment, orthodontic procedures are typically not extremely painful. Patients may experience mild soreness or discomfort for a few days after adjustments or initial placement of orthodontic appliances.
 
 
-      To schedule an appointment with our expert orthodontist and receive specific details and personalized advice tailored to your orthodontic needs, please contact our office at 9043193021.  Our friendly staff at the best dental clinic will be happy to assist you and answer any questions you may have. Take the first step toward achieving a confident, healthy smile today!
+      To schedule an appointment with our expert orthodontist and receive specific details and personalized advice tailored to your orthodontic needs, please contact our office at  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏.  Our friendly staff at the best dental clinic will be happy to assist you and answer any questions you may have. Take the first step toward achieving a confident, healthy smile today!
   - heading: 🐯  🎀  𝒞𝐻𝐼𝐿𝒟 𝒟𝐸𝒩𝒯𝒜𝐿 𝒞𝒜𝑅𝐸 - 𝒞𝒜𝑅𝐼𝒩𝒢 𝐹🍑𝑅
       𝐿𝐼𝒯𝒯𝐿𝐸 𝒮𝑀𝐼𝐿𝐸𝒮, ❁𝒩𝐸 𝒮𝒯𝐸𝒫 𝒜𝒯 𝒜 𝒯𝐼𝑀𝐸  🎀  🐯
     text: >+
@@ -468,7 +468,7 @@ values:
       Ans: In the case of a dental emergency, such as a knocked-out tooth or a toothache, it's crucial to contact the dentist immediately for guidance. Our child dentist can provide instructions on what steps to take until you can bring your child in for an emergency visit.
 
 
-      To know more about the importance of preventive care and regular children dental check-ups to maintain optimal oral health during childhood and beyond, contact us at Sparkle Dental Clinic, 9043193021.
+      To know more about the importance of preventive care and regular children dental check-ups to maintain optimal oral health during childhood and beyond, contact us at Sparkle Dental Clinic,  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏.
 
 
 
@@ -535,7 +535,7 @@ values:
       If you have an immobile elderly family member in need of home dental care, or emergency dental care, rest assured that we can arrange suitable and practical services to be delivered in the comfort of their own home
 
 
-      If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at 9043193021. We are dedicated to providing you with the support and information you require.
+      If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏. We are dedicated to providing you with the support and information you require.
     imageUrl: img/19451.jpg
   - heading: 𝗧𝗢𝗢𝗧𝗛 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗜𝗢𝗡 - 𝗘𝗫𝗣𝗘𝗥𝗧 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗜𝗢𝗡,
       𝗖𝗢𝗠𝗙𝗢𝗥𝗧𝗔𝗕𝗟𝗘 𝗥𝗘𝗖𝗢𝗩𝗘𝗥𝗬
@@ -600,8 +600,7 @@ values:
           Your dentist may recommend applying an ice pack to the outside of your 
           cheek to reduce swelling.
 
-          Pain and discomfort can be managed with over-the-counter or prescription     
-          pain medications as prescribed by your dentist.
+          Pain and discomfort can be managed with over-the-counter or prescription      pain medications as prescribed by your dentist.
 
          Avoid using a straw, spitting, or rinsing vigorously for 24 hours after the 
          extraction to prevent dislodging the blood clot and delaying healing.
@@ -622,7 +621,7 @@ values:
       In some cases, the dentist may also discuss options for tooth replacement, such as dental implants, bridges, or dentures, to restore the functionality and appearance of the missing tooth.
 
 
-      "Experiencing dental discomfort or in need of a tooth extraction? Our expert team is here to help. Contact us at 9043193021 to schedule a consultation and find the relief you need. Our caring professionals will guide you through the process and provide the best care for your dental health. Don't let dental concerns hold you back, reach out today!"
+      "Experiencing dental discomfort or in need of a tooth extraction? Our expert team is here to help. Contact us at  𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 to schedule a consultation and find the relief you need. Our caring professionals will guide you through the process and provide the best care for your dental health. Don't let dental concerns hold you back, reach out today!"
     imageUrl: img/tooth-3492645_1920.jpg
   - heading: "𝐔𝐋𝐂𝐄𝐑𝐒, 𝐑𝐄𝐃 𝐒𝐏𝐎𝐓𝐒, 𝐀𝐍𝐃 𝐖𝐇𝐈𝐓𝐄 𝐏𝐀𝐓𝐂𝐇𝐄𝐒:
       𝐒𝐎𝐎𝐓𝐇𝐈𝐍𝐆 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 𝐅𝐎𝐑 𝐎𝐑𝐀𝐋 𝐃𝐈𝐒𝐂𝐎𝐌𝐅𝐎𝐑𝐓"
@@ -652,7 +651,19 @@ values:
       5. Hand, foot, and mouth disease: This is a viral infection common in young children that can cause red spots or sores to develop in the mouth and on the hands and feet.
 
 
-      It's essential to consult a dentist or a healthcare professional for a proper diagnosis if you notice any unusual changes or persistent symptoms in your mouth. Timely intervention can help identify any underlying issues and ensure appropriate treatment.
+      FAQS
+
+      1. Are oral mucosal lesions treatable?
+
+      Ans: Yes, many oral mucosal lesions can be treated effectively through various approaches, including medication, oral hygiene improvements, and lifestyle modifications. However, the treatment and management depends on the specific type and cause of the lesion.
+
+
+      2. Where can these changes be seen?
+
+      Ans: The ulcers, red and white areas  are abnormal changes that occur in the lining of the mouth, including the inside of  cheeks, lips, gums, tongue, below tongue and roof of mouth.
+
+
+      It's essential to consult a dentist or a healthcare professional for a proper diagnosis if you notice any unusual changes or persistent symptoms in your mouth. Timely intervention can help identify any underlying issues and ensure appropriate treatment. Schedule your consultation today for comprehensive oral health assessment and personalized care. Call 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 to help you get rid of the ulcer pain. 
     imageUrl: img/mouth_ulcer.jpg
   - heading: 𝐈𝐍𝐋𝐀𝐘𝐒 𝐀𝐍𝐃 𝐎𝐍𝐋𝐀𝐘𝐒 - 𝐑𝐄𝐒𝐓𝐎𝐑𝐈𝐍𝐆 𝐒𝐌𝐈𝐋𝐄𝐒,
       𝐏𝐑𝐄𝐒𝐄𝐑𝐕𝐈𝐍𝐆 𝐒𝐓𝐑𝐄𝐍𝐆𝐓𝐇
