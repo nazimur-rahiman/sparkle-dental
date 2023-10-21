@@ -927,4 +927,87 @@ values:
 
 
     imageUrl: img/full-set-acrylic-denture-isolated-white-background-removebg-preview.png
+  - heading: 𝐃𝐄𝐍𝐓𝐀𝐋 𝐂𝐑𝐎𝐖𝐍𝐒
+    text: >+
+      Dental crowns are tooth-shaped caps that are placed over a damaged or
+      decayed tooth to restore its shape, size, strength, and overall
+      appearance. They are  used to cover a tooth after a root canal treatment,
+      to protect a weak tooth from fracturing, or to restore a significantly
+      worn-down or discolored tooth.
+
+
+      When will my dentist advice dental caps?
+
+      1. Severe tooth decay that cannot be addressed with a filling
+
+      2. Cracked or fractured teeth
+
+      3. Large fillings that make the tooth weak 
+
+      4. Cosmetic enhancement for misshapen or discolored teeth
+
+      5. Protection for a tooth following a root canal treatment
+
+      6. Support for dental bridges or dental implants
+
+
+      Types of Dental Crowns:
+
+      Common types of dental crowns include:
+
+      Porcelain-fused-to-metal (PFM) crowns
+
+      Ceramic or porcelain crowns - Emax, Zirconia
+
+      Metal crowns 
+
+
+      Procedure for Dental Crown Placement:
+
+      1. Dentist will first examine and assess the teeth surrounding structures.
+
+
+      2. Tooth preparation, which involves shaping the tooth to accommodate the crown.
+
+
+      3. Taking impressions of the prepared tooth to create a custom-made crown.
+
+
+      4. Temporary crown may be given while the permanent one is being fabricated, at the dental lab
+
+
+      5. Removal of the temporary crown and placement of the permanent crown during a subsequent appointment.
+
+
+      FAQs
+
+      1. Are dental crowns noticeable or distinguishable from natural teeth?
+
+      Ans: Modern dental crowns are designed to closely match the color, shape, and size of natural teeth, making them virtually indistinguishable from surrounding teeth. However, metal crowns will not have color similar to the teeth
+
+
+      2. Are dental crowns a suitable option for children or teenagers?
+
+      Ans: Dental crowns can be recommended for children or teenagers, particularly in cases where a primary tooth has been significantly damaged or to protect a tooth at risk of fracture.
+
+
+      It's essential to consult with a qualified dentist to determine the most suitable type of dental crown based on individual dental needs and preferences. Schedule a consultation at Sparkle Dental Clinic for quality and premium dental crown solutions and achieve a dazzling, functional smile
+
+
+
+    imageUrl: img/clfg3mlavaessential_translucentandpremium2-removebg-preview.png
+  - heading: 𝟑𝐃 𝐒𝐌𝐈𝐋𝐄 𝐃𝐄𝐒𝐈𝐆𝐍𝐈𝐍𝐆 - 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐒𝐌𝐈𝐋𝐄
+      𝐃𝐄𝐒𝐈𝐆𝐍𝐈𝐍𝐆
+    text: >-
+      Get Your Dream Smile with 3D Smile Designing
+
+
+      Experience the latest in dental technology with 3D Smile Designing. This innovative digital tool helps dentists create personalized treatment plans for your perfect smile. See the possibilities and make informed choices for a confident, stunning smile transformation. Discover the future of dental care with 3D Smile Designing today.
+
+
+      During your initial visit, all tooth and related digital records are captured to design your new smile. We'll take a series of photographs and short videos, focusing not just on your teeth but also on your unique expressions and personality. Understanding how your mouth moves when you speak or laugh is key to achieving a natural, harmonious result.
+
+
+      Our goal is to create a smile that complements your facial features seamlessly. Our modern dentistry concepts aims to ensure that your new smile appears natural and enhances your overall appearance
+    imageUrl: img/digital-smile-design1-img-removebg-preview.png
 ---
