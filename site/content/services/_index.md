@@ -537,7 +537,8 @@ values:
 
       If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at 9043193021. We are dedicated to providing you with the support and information you require.
     imageUrl: img/19451.jpg
-  - heading: TOOTH EXTRACTION - EXPERT EXTRACTION, COMFORTABLE RECOVERY
+  - heading: 𝗧𝗢𝗢𝗧𝗛 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗜𝗢𝗡 - 𝗘𝗫𝗣𝗘𝗥𝗧 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗜𝗢𝗡,
+      𝗖𝗢𝗠𝗙𝗢𝗥𝗧𝗔𝗕𝗟𝗘 𝗥𝗘𝗖𝗢𝗩𝗘𝗥𝗬
     text: >-
       We at Sparkle Dental Clinic, believe and work towards keeping your natural
       teeth for lifetime. but sometimes, we are left with no choice but to
@@ -623,8 +624,8 @@ values:
 
       "Experiencing dental discomfort or in need of a tooth extraction? Our expert team is here to help. Contact us at 9043193021 to schedule a consultation and find the relief you need. Our caring professionals will guide you through the process and provide the best care for your dental health. Don't let dental concerns hold you back, reach out today!"
     imageUrl: img/tooth-3492645_1920.jpg
-  - heading: "SOOTHING SOLUTIONS FOR ORAL DISCOMFORT: TACKLING ULCERS, RED SPOTS,
-      AND WHITE PATCHES"
+  - heading: "𝐔𝐋𝐂𝐄𝐑𝐒, 𝐑𝐄𝐃 𝐒𝐏𝐎𝐓𝐒, 𝐀𝐍𝐃 𝐖𝐇𝐈𝐓𝐄 𝐏𝐀𝐓𝐂𝐇𝐄𝐒:
+      𝐒𝐎𝐎𝐓𝐇𝐈𝐍𝐆 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 𝐅𝐎𝐑 𝐎𝐑𝐀𝐋 𝐃𝐈𝐒𝐂𝐎𝐌𝐅𝐎𝐑𝐓"
     text: >-
       Mouth ulcers are usually small painful areas inside the mouth. Some people
       experience  mouth ulcers repeatedly , which can cause burning sensation,
