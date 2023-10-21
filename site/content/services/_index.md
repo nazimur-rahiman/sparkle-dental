@@ -837,7 +837,7 @@ values:
 
 
 
-    imageUrl: img/3d-skeleton-headache.jpg
+    imageUrl: img/3d-skeleton-headache-removebg-preview.png
   - heading: "𝐓𝐨𝐨𝐭𝐡 𝐖𝐡𝐢𝐭𝐞𝐧𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 "
     text: >+
       Brighten your smile and boost your confidence with our professional teeth
