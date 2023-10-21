@@ -534,11 +534,99 @@ values:
 
       If you have any additional questions or need further assistance, please feel free to contact Sparkle Dental Clinic at 9043193021. We are dedicated to providing you with the support and information you require.
     imageUrl: img/19451.jpg
-  - heading: Tooth extraction
-    text: "We believe and work towards keeping your natural teeth for lifetime. but
-      sometimes, we are left with no choice but to extract. There is nothing to
-      fear during or after extraction. one can carry about their day to day
-      activities without any hindrance. "
+  - heading: TOOTH EXTRACTION
+    text: >+
+      We at Sparkle Dental Clinic, believe and work towards keeping your natural
+      teeth for lifetime. but sometimes, we are left with no choice but to
+      extract. There is nothing to fear during or after extraction. one can
+      carry about their day to day activities without any hindrance.  
+
+
+      Here are some common reasons for tooth extraction:
+
+
+      1. Severe tooth decay: When tooth decay has damaged a tooth extensively, making it unsalvageable, extraction may be necessary to prevent the spread of infection.
+
+
+      2. Periodontal disease: Advanced gum disease can lead to the loosening of teeth, requiring extraction to prevent further damage to surrounding teeth and bone.
+
+
+      3. Crowded mouth: In cases where the mouth is overcrowded, teeth may need to be extracted to prepare for orthodontic treatment or to make room for proper tooth alignment.
+
+
+      4. Impacted teeth: When a tooth cannot fully emerge from the gum line, such as impacted wisdom teeth, extraction might be necessary to prevent pain, infection, or damage to surrounding teeth.
+
+
+      5. Risk of infection: In individuals with a compromised immune system, a tooth that is at risk of causing an infection may need to be extracted to prevent the spread of infection to other parts of the body.
+
+
+      6. Trauma or injury: Teeth that have been severely damaged due to trauma or injury may need to be extracted if they cannot be effectively repaired.
+
+
+      Here is an overview of what to expect during and after a tooth extraction:
+
+
+      1. Before the extraction:
+
+           Your dentist will review your medical history and perform a thorough 
+            examination of the tooth and surrounding area.
+
+            Local anesthesia or sedation may be administered to numb the area and 
+            minimize discomfort during the procedure.
+
+           For more complex cases, such as impacted teeth, your dentist may refer 
+            you to an oral surgeon.
+
+      2. During the extraction:
+
+           The dentist will use specialized instruments to loosen the tooth in its 
+           socket before carefully removing it.
+
+            Gauze is placed over the extraction site to control bleeding, and stitches 
+            may be required in some cases.
+
+      3. After the extraction:
+
+            It's normal to experience some bleeding for a few hours after the 
+            procedure. 
+       
+           Bite on a gauze pad placed over the extraction site to help stop the 
+           bleeding.
+
+          Your dentist may recommend applying an ice pack to the outside of your 
+          cheek to reduce swelling.
+
+          Pain and discomfort can be managed with over-the-counter or prescription     
+          pain medications as prescribed by your dentist.
+
+         Avoid using a straw, spitting, or rinsing vigorously for 24 hours after the 
+         extraction to prevent dislodging the blood clot and delaying healing.
+
+         Stick to soft foods and avoid hard, chewy, or hot foods that could irritate 
+         the  extraction site.
+
+          Maintain good oral hygiene, but be gentle around the extraction site to 
+          prevent infection. Your dentist may recommend a saltwater rinse after 24 
+          hours.
+
+      It's essential to follow your dentist's post-extraction instructions carefully. Contact your dentist if you experience severe pain, excessive bleeding, swelling, or any other concerns that might indicate a complication. With proper care, the extraction site should heal within a few weeks.
+
+
+      Tooth extraction is a common procedure typically performed by a dentist or dental surgeon. After the extraction, the dentist may provide instructions for post-operative care, which may include pain management and recommendations for proper healing and recovery.
+
+
+      In some cases, the dentist may also discuss options for tooth replacement, such as dental implants, bridges, or dentures, to restore the functionality and appearance of the missing tooth.
+
+
+      "Experiencing dental discomfort or in need of a tooth extraction? Our expert team is here to help. Contact us at 9043193021 to schedule a consultation and find the relief you need. Our caring professionals will guide you through the process and provide the best care for your dental health. Don't let dental concerns hold you back, reach out today!"
+
+
+
+
+
+
+
+
     imageUrl: img/tooth-3492645_1920.jpg
   - heading: Mouth Ulcers, red & white areas in mouth
     text: "Mouth ulcers are usually small painful areas inside the mouth. Some
