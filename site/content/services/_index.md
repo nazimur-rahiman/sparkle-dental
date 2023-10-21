@@ -476,7 +476,7 @@ values:
 
 
     imageUrl: img/dentist-cleaning-child-s-teeth_23-2149195888.jpg
-  - heading: GERIATRIC DENTISTRY - CARING FOR ELDERLY
+  - heading: 𝐆𝐄𝐑𝐈𝐀𝐓𝐑𝐈𝐂 𝐃𝐄𝐍𝐓𝐈𝐒𝐓𝐑𝐘 - 𝐂𝐀𝐑𝐈𝐍𝐆 𝐅𝐎𝐑 𝐄𝐋𝐃𝐄𝐑𝐋𝐘
     text: >-
       Mouth is referred to as a mirror of overall health. Eating nutritious
       wholesome meal becomes more important as we age. Healthy teeth and mouth
