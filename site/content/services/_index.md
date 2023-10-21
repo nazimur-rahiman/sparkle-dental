@@ -704,7 +704,7 @@ values:
 
       Contact our dental office today to schedule a consultation and explore how inlays and onlays can help restore your smile while preserving your natural tooth structure
 
-    imageUrl: img/dental-check-up-3845713.jpg
+    imageUrl: img/inlayonlay-1024x645.jpg
   - heading: Social Committments - giving back to society
     text: >
       Sparkle dental sees itself as a member of the community and gives back to
