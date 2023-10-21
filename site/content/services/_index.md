@@ -838,4 +838,51 @@ values:
 
 
     imageUrl: img/3d-skeleton-headache.jpg
+  - heading: "𝐓𝐨𝐨𝐭𝐡 𝐖𝐡𝐢𝐭𝐞𝐧𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 "
+    text: >+
+      Brighten your smile and boost your confidence with our professional teeth
+      whitening solutions. Our experienced dental doctor offers safe and
+      effective treatments that can effectively remove stubborn stains and
+      discoloration, unveiling a dazzling, radiant smile.
+
+
+      Why go for teeth whitening?
+
+
+      1.  Tooth  Stains: Tooth discoloration caused by external factors such as consumption of staining substances like coffee, tea, or tobacco.
+
+
+      2. Aging: Natural aging can lead to the darkening of teeth as the enamel becomes thinner, revealing the dentin underneath.
+
+
+      3. Internal  Stains: Internal discoloration due to developmental conditions, trauma, or exposure to certain medications during tooth development.
+
+
+      At Sparkle Dental Clinic, we provide at-Home Whitening, in the comfort of your home. Customized trays are given. These trays are then filled with a lower concentration of the whitening  agent and worn for a specified period, usually a couple of hours each day or overnight, for several weeks to achieve the desired level of whitening.
+
+
+      FAQs
+
+
+      1. Is tooth whitening safe?
+
+      Ans: Yes, when performed by a dental professional, tooth whitening is considered safe and effective. However, some individuals may experience temporary tooth sensitivity or gum irritation, which usually resolves after the treatment. 
+
+
+      2. How can I maintain the results of tooth whitening?
+
+      Ans: Maintaining good oral hygiene practices, reducing the consumption of staining substances, and scheduling regular dental cleanings can help prolong the effects of tooth whitening
+
+
+      It's important to consult with a dental professional to determine the most suitable tooth whitening approach based on individual needs, dental history, and the nature of the discoloration.
+
+
+      Discover the transformative power of our tooth whitening services and let your vibrant smile shine. Contact us today at 9043193021 to schedule a consultation and take the first step towards a brighter, more confident you
+
+
+
+
+
+
+    imageUrl: img/woman-whitening-treatment.jpg
 ---
