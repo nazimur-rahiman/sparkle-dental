@@ -207,7 +207,7 @@ values:
       What happens during root canal treatment?
 
 
-      During the treatment, the infected pulp of the tooth is removed, and the inside of the tooth is carefully cleaned and disinfected. It is then filled and sealed with a rubber-like material to prevent further infection. A crown may be placed on the treated tooth for added protection and strength. Inlay and onlays are also preferred now-a-days instead of crown.
+      During the treatment, the  infected pulp of the tooth is removed, and the inside of the tooth is carefully cleaned and disinfected. It is then filled and sealed with a rubber-like material to prevent further infection. A crown may be placed on the treated tooth for added protection and strength. Inlay and onlays are also preferred now-a-days instead of crown.
 
 
       When is it Needed: 
@@ -244,7 +244,7 @@ values:
       7. In a subsequent visit, a permanent dental crown is placed to protect and strengthen the treated tooth, restoring its function and appearance.
 
 
-      Regular follow-up appointments are recommended to monitor the healing process and ensure the long-term success of the root canal treatment.
+      endodontists recommend regular follow-up appointments are recommended to monitor the healing process and ensure the long-term success of the root canal treatment.
 
 
       FAQs
@@ -394,7 +394,7 @@ values:
       Ans: While some discomfort can be expected during certain stages of treatment, orthodontic procedures are typically not extremely painful. Patients may experience mild soreness or discomfort for a few days after adjustments or initial placement of orthodontic appliances.
 
 
-      To schedule an appointment with our orthodontist and receive specific details and personalized advice tailored to your orthodontic needs, please contact our office at 9043193021.  Our friendly staff at the best dental clinic will be happy to assist you and answer any questions you may have. Take the first step toward achieving a confident, healthy smile today!
+      To schedule an appointment with our expert orthodontist and receive specific details and personalized advice tailored to your orthodontic needs, please contact our office at 9043193021.  Our friendly staff at the best dental clinic will be happy to assist you and answer any questions you may have. Take the first step toward achieving a confident, healthy smile today!
   - heading: 🐯  🎀  𝒞𝐻𝐼𝐿𝒟 𝒟𝐸𝒩𝒯𝒜𝐿 𝒞𝒜𝑅𝐸 - 𝒞𝒜𝑅𝐼𝒩𝒢 𝐹🍑𝑅
       𝐿𝐼𝒯𝒯𝐿𝐸 𝒮𝑀𝐼𝐿𝐸𝒮, ❁𝒩𝐸 𝒮𝒯𝐸𝒫 𝒜𝒯 𝒜 𝒯𝐼𝑀𝐸  🎀  🐯
     text: >+
