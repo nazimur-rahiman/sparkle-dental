@@ -1107,6 +1107,21 @@ values:
       During your initial visit, all tooth and related digital records are captured to design your new smile. We'll take a series of photographs and short videos, focusing not just on your teeth but also on your unique expressions and personality. Understanding how your mouth moves when you speak or laugh is key to achieving a natural, harmonious result.
 
 
+      1. Who is a suitable candidate for smile designing?
+
+      Ans: Individuals with concerns such as discolored, misaligned, or unevenly shaped teeth are often suitable candidates for smile designing.
+
+
+      2. Are the results of smile designing permanent?
+
+      Ans: While the results of smile designing are long-lasting, they may require maintenance over time. Proper oral hygiene practices and regular dental visits can help ensure the longevity of the results.
+
+
+      3. What are some common treatments included in smile designing?
+
+      Ans: Smile designing treatments can include teeth whitening, veneers, dental crowns, orthodontics, and gum reshaping, among others, tailored to the specific needs and goals of the individual.
+
+
       Our goal is to create a smile that complements your facial features seamlessly. Our modern dentistry concepts aims to ensure that your new smile appears natural and enhances your overall appearance. Sounds interesting and want to know more. Call 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 for a Digital Smile Design consultation at a nominal cost.
     imageUrl: img/digital-smile-design1-img-removebg-preview.png
   - heading: 𝐒𝐂𝐀𝐋𝐈𝐍𝐆 𝐀𝐍𝐃 𝐏𝐎𝐋𝐈𝐒𝐇𝐈𝐍𝐆
@@ -1178,9 +1193,6 @@ values:
       3. The procedure is generally comfortable, and the dental team works to ensure you feel at ease throughout.  After scaling,  if necessary we may polish your teeth.
 
 
-      Scaling is  a quick and effective way to maintain excellent oral health and keep your smile sparkling.
-
-
       FAQs
 
 
@@ -1197,5 +1209,47 @@ values:
       3. I have heard scaling makes teeth weak is that true?
 
       Ans: No, scaling does not weaken the teeth. In fact, it helps strengthen them by removing the plaque and tartar that can contribute to decay and gum disease. Regular scaling is an important part of maintaining good oral health and keeping your teeth strong.
+
+
+      Scaling is  a quick and effective way to maintain excellent oral health and keep your smile sparkling.
+
+      Call 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 to schedule your way forward to good health.
     imageUrl: img/how-to-stop-tooth-cavity-bleeding-park-meadows-dental-medicine-hat-removebg-preview.png
+  - heading: 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐘 𝐃𝐄𝐍𝐓𝐀𝐋 𝐂𝐀𝐑𝐄
+    text: >-
+      We know that dental problems can happen suddenly and can be really
+      painful. That's why at Sparkle Dental Clinic, we're here to help you right
+      away with any dental emergencies you might have.
+
+
+      Need Emergency Dental Care?
+
+      If you're experiencing teeth pain or have had an  injury, give us a call immediately. We'll do our best to schedule an emergency visit for you . Our team is dedicated to providing the right treatment to relieve your pain, restore your teeth, and make sure you're pain-free.
+
+
+      Wondering if you need to see a dentist urgently? Contact us immediately if you have:
+
+
+      A severe toothache
+
+      A  tooth which has come out from its place due to injury
+
+      Excessive bleeding from a mouth injury
+
+      Broken or chipped teeth
+
+      Lost filling or crown
+
+      Painful swelling with pus
+
+      Loose teeth affecting your eating
+
+      A bracket which has loosened or a poking wire from braces
+
+
+      During your visit, our dentists will carefully examine your condition and provide prompt treatment to ensure you're comfortable and pain-free.
+
+
+      Urgent Dental Concerns? This dental clinic near you will help you. Contact Sparkle Dental Care Now for Immediate Assistance! Call 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏
+    imageUrl: img/55125-removebg-preview-1-.png
 ---
