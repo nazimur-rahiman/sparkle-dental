@@ -11,6 +11,9 @@ values:
       and children, ensuring a healthy and confident smile for the whole family
 
 
+      A Walkthrough of Your Dental Visit:
+
+
       A regular dental check-up is necessary for several reasons:
 
 
@@ -1106,4 +1109,75 @@ values:
 
       Our goal is to create a smile that complements your facial features seamlessly. Our modern dentistry concepts aims to ensure that your new smile appears natural and enhances your overall appearance. Sounds interesting and want to know more. Call 𝟗𝟎𝟒𝟑𝟏𝟗𝟑𝟎𝟐𝟏 for a Digital Smile Design consultation at a nominal cost.
     imageUrl: img/digital-smile-design1-img-removebg-preview.png
+  - heading: 𝐒𝐂𝐀𝐋𝐈𝐍𝐆 𝐀𝐍𝐃 𝐏𝐎𝐋𝐈𝐒𝐇𝐈𝐍𝐆
+    text: >-
+      Scaling and polishing is like a deep cleaning for your teeth. It helps get
+      rid of the deposits and stains which are stuck to your teeth feel.
+      Dentists use special tools to clean your teeth thoroughly and make sure
+      your gums stay healthy. It's a simple way to keep your teeth strong and
+      bright.
+
+
+      It is important to treat gum disease to prevent loosening and loss of your teeth
+
+
+      Do I need this dental procedure? 
+
+
+      Our dentist and periodontist may suggest this extremely common procedure if they notice
+
+
+      1. Gum disease: Build up of scales, plaque and tartar that will cause  onset and progression of gum disease, 
+
+
+      2.. Red swollen gums
+
+
+      3.. Bleeding while brushing
+
+
+      4. Stains 
+
+
+      5. Bad Breath
+
+
+      Why will you need scaling?
+
+
+      Scaling is an essential dental procedure for maintaining good oral health. Here's why you should consider having scaling done:
+
+
+      1. Healthy Gums: It prevents gum problems by removing the bad stuff that can make your gums sore and unhealthy.
+
+
+      2. Fresh Breath: It helps your breath stay fresh by getting rid of the yucky stuff that can make your breath smell not so great.
+
+
+      3. Brighter Smile: It can make your teeth look brighter by cleaning off the stuff that makes them look dull or yellow.
+
+
+      4. Strong Teeth: It helps you keep your teeth strong by stopping any problems before they become serious and affect your teeth.
+
+
+      5. Better Health: Taking care of your teeth can also help keep your body healthy, preventing problems like heart disease and diabetes
+
+
+      6. Pregnancy: Ensuring proper oral hygiene for your mouth, teeth, and gums throughout your pregnancy can contribute to a positive pregnancy experience and the well-being of your baby  
+
+
+      What Happens During the Procedure
+
+
+      1. During the scaling procedure, we use special tools to carefully remove the plaque and tartar that have built up on your teeth over time. 
+
+
+      2. We pay special attention to the areas around your gums, ensuring that your teeth and gums are thoroughly clean. 
+
+
+      3. The procedure is generally comfortable, and the dental team works to ensure you feel at ease throughout.  After scaling,  if necessary we may polish your teeth.
+
+
+      Scaling is  a quick and effective way to maintain excellent oral health and keep your smile sparkling.
+    imageUrl: img/how-to-stop-tooth-cavity-bleeding-park-meadows-dental-medicine-hat-removebg-preview.png
 ---
