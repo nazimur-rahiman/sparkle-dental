@@ -1179,5 +1179,23 @@ values:
 
 
       Scaling is  a quick and effective way to maintain excellent oral health and keep your smile sparkling.
+
+
+      FAQs
+
+
+      1.  Will my gums bleed during scaling?
+
+      Ans: It's common to experience minor bleeding during scaling, especially if your gums are inflamed due . However, the dental professional will ensure that the bleeding is minimized and will provide post-procedural instructions to manage any discomfort.
+
+
+      2. How often should I get scaling done?
+
+      Ans: It is generally recommended to get scaling done every six months as part of your regular dental check-ups and cleanings. However, the frequency may vary based on your specific oral health needs
+
+
+      3. I have heard scaling makes teeth weak is that true?
+
+      Ans: No, scaling does not weaken the teeth. In fact, it helps strengthen them by removing the plaque and tartar that can contribute to decay and gum disease. Regular scaling is an important part of maintaining good oral health and keeping your teeth strong.
     imageUrl: img/how-to-stop-tooth-cavity-bleeding-park-meadows-dental-medicine-hat-removebg-preview.png
 ---
