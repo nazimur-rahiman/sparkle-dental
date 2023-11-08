@@ -9,3 +9,5 @@ title = "Sparkle Dental Clinic"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 googleAnalytics = "UA-169926409-1"
+
+Theme = "hugo-universal-theme"
