@@ -17,18 +17,19 @@ intro:
     well-being.
 
 
+products: []
 values:
   heading: Why choose us
   image: img/dental-mirrors.jpg
   text: >-
-    Having accumulated over 20 years of dental experience, our team has honed
-    their skills in addressing an extensive range of dental and oral issues.
-    From routine check-ups and treatments to more intricate procedures like
-    dental implants and digital smile designing, we handle each aspect with
-    precision and care.
+    With over 20 years of experience in the dental field, our team has honed
+    their skills in addressing a wide range of dental and oral issues. From
+    routine check-ups and treatments to more intricate procedures like dental
+    implants and digital smile designing, we handle each aspect with precision
+    and care.
 
 
-    Unlike chain clinics, our team of dental care providers remains unchanged, emphasizing the importance of a consistent approach to your care.
+    Our team of dental care providers remains unchanged, which emphasizes the importance of a consistent approach to your care. This means that every time you visit us, you will find the same core team who knows your dental health and can treat you with expertise. This is in contrast to chain clinics where the team of dental care providers may change frequently.
 
 
     Furthermore, we firmly believe that maintaining good oral health goes hand in hand with ensuring overall well-being. We prioritize comprehensive care that not only enhances your smile but also contributes to your overall health and wellness."
